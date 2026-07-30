@@ -35,6 +35,7 @@
 | 🌾 | **小米线路** | `https://v6.gh-proxy.org/https://raw.githubusercontent.com/apaodh/apaodh/refs/heads/main/backups/xm.json` | 轻量级，加载速度快 |
 | 🎵 | **vox线路** | `https://v6.gh-proxy.org/https://raw.githubusercontent.com/apaodh/apaodh/refs/heads/main/backups/vox.json` | 音画同步好，适合音乐类 |
 | 👦 | **王二小线路** | `https://v6.gh-proxy.org/https://raw.githubusercontent.com/apaodh/apaodh/refs/heads/main/backups/w2x.json` | 小众资源，挖掘冷门佳作 |
+| 👌  | **王二小线路** | `https://v6.gh-proxy.org/https://raw.githubusercontent.com/apaodh/apaodh/refs/heads/main/output/186` | 小众资源，挖掘冷门佳作 |
 
 > **备用提示**：如果上方代理地址访问缓慢，可将域名 `v6.gh-proxy.org` 替换为 `mirror.ghproxy.com` 或 `ghproxy.net` 使用。
 
