@@ -73,9 +73,8 @@
   <ellipse cx="680" cy="170" rx="400" ry="120" fill="url(#galaxyGrad)" filter="url(#softGlow)"/>
   <ellipse cx="650" cy="180" rx="250" ry="80" fill="#4a2a7a" opacity="0.06" filter="url(#softGlow)"/>
 
-  <!-- ===== 星星层 ===== -->
-
-  <!-- 小星星组（淡，慢速闪烁） -->
+  <!-- ===== 星星层（原样保留） ===== -->
+  <!-- 小星星组 -->
   <g opacity="0.7">
     <circle cx="45" cy="35" r="0.8" fill="#ffffff">
       <animate attributeName="opacity" values="0.7;0.15;0.7" dur="4.2s" begin="0s" repeatCount="indefinite"/>
@@ -127,7 +126,7 @@
     </circle>
   </g>
 
-  <!-- 中星星组（中等亮度，中速闪烁） -->
+  <!-- 中星星组 -->
   <g>
     <circle cx="85" cy="80" r="1.5" fill="#ffffff">
       <animate attributeName="opacity" values="1;0.2;1" dur="2.8s" begin="0s" repeatCount="indefinite"/>
@@ -167,7 +166,7 @@
     </circle>
   </g>
 
-  <!-- 亮星星组（亮，快速闪烁） -->
+  <!-- 亮星星组 -->
   <g>
     <circle cx="150" cy="120" r="2.2" fill="#ffffff">
       <animate attributeName="opacity" values="1;0.1;1" dur="1.8s" begin="0s" repeatCount="indefinite"/>
@@ -214,13 +213,10 @@
 
   <!-- ===== 月亮 ===== -->
   <g transform="translate(910, 52)">
-    <!-- 月晕 -->
     <circle cx="0" cy="0" r="28" fill="#ffeedd" opacity="0.08" filter="url(#softGlow)"/>
     <circle cx="0" cy="0" r="18" fill="#ffeedd" opacity="0.15" filter="url(#softGlow)"/>
-    <!-- 月牙 -->
     <circle cx="0" cy="0" r="14" fill="#fff5e6" filter="url(#starGlow)" opacity="0.95"/>
     <circle cx="5" cy="-2" r="12" fill="#0d0a2e" opacity="0.85"/>
-    <!-- 月光亮点 -->
     <circle cx="-4" cy="-4" r="2" fill="#ffffff" opacity="0.3"/>
   </g>
 
@@ -252,20 +248,12 @@
   <rect x="5" y="5" width="970" height="330" rx="6" stroke="#4a1a7a" stroke-width="3.5" fill="none" opacity="0.7"/>
   <rect x="10" y="10" width="960" height="320" rx="4" stroke="#ff7eb3" stroke-width="1" fill="none" opacity="0.4"/>
 
-  <!-- 边框角星装饰 -->
+  <!-- 边框角星装饰（改为“道”字符） -->
   <g opacity="0.6">
-    <circle cx="15" cy="15" r="2" fill="#ffb3d9">
-      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="965" cy="15" r="2" fill="#aaccff">
-      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="15" cy="325" r="2" fill="#aaccff">
-      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="965" cy="325" r="2" fill="#ffb3d9">
-      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.9s" repeatCount="indefinite"/>
-    </circle>
+    <text x="12" y="24" fill="#ffb3d9" font-size="14" font-family="serif">✦</text>
+    <text x="960" y="24" fill="#aaccff" font-size="14" font-family="serif">✦</text>
+    <text x="12" y="334" fill="#aaccff" font-size="14" font-family="serif">✦</text>
+    <text x="960" y="334" fill="#ffb3d9" font-size="14" font-family="serif">✦</text>
   </g>
 
   <!-- ===== 顶部星光装饰栏 ===== -->
@@ -285,42 +273,43 @@
     </circle>
   </g>
 
+  <!-- 顶部标题改为“云·道” -->
   <text x="135" y="47" fill="#d4a0ff" font-size="15" font-family="Consolas,Menlo,monospace" font-weight="bold" opacity="0.8">
-    ✦ STARLIGHT ✦
+    ✦ 云·道 ✦
   </text>
 
-  <!-- ===== 主要文字内容 ===== -->
+  <!-- ===== 主要文字内容（全新“道系”四行） ===== -->
   <g font-family="Consolas,Menlo,monospace" font-size="17" fill="#ff7eb3" filter="url(#pinkGlow)" font-weight="bold">
 
-    <!-- 第一行：逐字出现 -->
+    <!-- 第一行：echo "道可道，非常道"（逐字出现） -->
     <text x="46" y="98">
       <tspan opacity="0"><animate attributeName="opacity" to="1" begin="0.1s" fill="freeze"/>e</tspan>
       <tspan opacity="0"><animate attributeName="opacity" to="1" begin="0.2s" fill="freeze"/>c</tspan>
       <tspan opacity="0"><animate attributeName="opacity" to="1" begin="0.3s" fill="freeze"/>h</tspan>
       <tspan opacity="0"><animate attributeName="opacity" to="1" begin="0.4s" fill="freeze"/>o</tspan>
-      <tspan> "除了 bug，万事皆可解"</tspan>
+      <tspan> "道可道，非常道"</tspan>
     </text>
 
     <!-- 第二行：整体淡入 -->
     <text x="46" y="140" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.3s" fill="freeze"/>
-      echo "头发常在，代码不改"
+      echo "云可云，非常云"
     </text>
 
     <!-- 第三行：整体淡入 -->
     <text x="46" y="182" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.3s" fill="freeze"/>
-      echo "需求千千万，逻辑第一条"
+      echo "重构即常，无常即道"
     </text>
 
     <!-- 第四行：整体淡入 -->
     <text x="46" y="224" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="6.8s" dur="0.3s" fill="freeze"/>
-      echo "人生无缓存，凡事皆重构"
+      echo "阿炮云 · 星河有道"
     </text>
   </g>
 
-  <!-- ===== 闪烁光标（粉红色，带发光） ===== -->
+  <!-- ===== 闪烁光标 ===== -->
   <rect x="24" y="75" width="12" height="22" fill="#ff6b9d" filter="url(#pinkGlow)" opacity="0.9">
     <animate attributeName="opacity" values="0.9;0;0.9" dur="0.5s" repeatCount="indefinite"/>
   </rect>
