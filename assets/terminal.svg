@@ -1,0 +1,328 @@
+<svg width="980" height="340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- 天空渐变 -->
+    <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050a20"/>
+      <stop offset="35%" stop-color="#0d0a2e"/>
+      <stop offset="70%" stop-color="#160a3a"/>
+      <stop offset="100%" stop-color="#0a0a20"/>
+    </linearGradient>
+
+    <!-- 银河渐变 -->
+    <radialGradient id="galaxyGrad" cx="0.7" cy="0.5" r="0.8">
+      <stop offset="0%" stop-color="#6a3a9a" stop-opacity="0.15"/>
+      <stop offset="40%" stop-color="#3a1a6a" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0a0a20" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- 粉色发光滤镜（文字用） -->
+    <filter id="pinkGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0 0 0 0.5
+                0 0.6 0 0 0.1
+                0 0 1 0 0.4
+                0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- 星光发光滤镜 -->
+    <filter id="starGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- 柔光滤镜 -->
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+
+    <!-- 大星星符号（带十字光芒） -->
+    <g id="bigStar">
+      <circle cx="0" cy="0" r="3.5" fill="#ffffff" filter="url(#starGlow)"/>
+      <line x1="-10" y1="0" x2="10" y2="0" stroke="#ffffff" stroke-width="0.7" opacity="0.5"/>
+      <line x1="0" y1="-10" x2="0" y2="10" stroke="#ffffff" stroke-width="0.7" opacity="0.5"/>
+      <line x1="-6" y1="-6" x2="6" y2="6" stroke="#ffffff" stroke-width="0.4" opacity="0.25"/>
+      <line x1="-6" y1="6" x2="6" y2="-6" stroke="#ffffff" stroke-width="0.4" opacity="0.25"/>
+    </g>
+
+    <!-- 彩色大星星 -->
+    <g id="bigStarPink">
+      <circle cx="0" cy="0" r="3" fill="#ff8aae" filter="url(#starGlow)"/>
+      <line x1="-8" y1="0" x2="8" y2="0" stroke="#ff8aae" stroke-width="0.6" opacity="0.4"/>
+      <line x1="0" y1="-8" x2="0" y2="8" stroke="#ff8aae" stroke-width="0.6" opacity="0.4"/>
+    </g>
+
+    <g id="bigStarBlue">
+      <circle cx="0" cy="0" r="3" fill="#8ab8ff" filter="url(#starGlow)"/>
+      <line x1="-8" y1="0" x2="8" y2="0" stroke="#8ab8ff" stroke-width="0.6" opacity="0.4"/>
+      <line x1="0" y1="-8" x2="0" y2="8" stroke="#8ab8ff" stroke-width="0.6" opacity="0.4"/>
+    </g>
+  </defs>
+
+  <!-- ===== 天空背景 ===== -->
+  <rect width="980" height="340" rx="8" fill="url(#skyGrad)"/>
+
+  <!-- ===== 银河效果 ===== -->
+  <ellipse cx="680" cy="170" rx="400" ry="120" fill="url(#galaxyGrad)" filter="url(#softGlow)"/>
+  <ellipse cx="650" cy="180" rx="250" ry="80" fill="#4a2a7a" opacity="0.06" filter="url(#softGlow)"/>
+
+  <!-- ===== 星星层 ===== -->
+
+  <!-- 小星星组（淡，慢速闪烁） -->
+  <g opacity="0.7">
+    <circle cx="45" cy="35" r="0.8" fill="#ffffff">
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="4.2s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="55" r="1" fill="#ccddff">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.8s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="230" cy="28" r="0.7" fill="#ffffff">
+      <animate attributeName="opacity" values="0.7;0.2;0.7" dur="5s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="45" r="0.9" fill="#ffddee">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="4.5s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="470" cy="30" r="0.8" fill="#ffffff">
+      <animate attributeName="opacity" values="0.7;0.2;0.7" dur="3.5s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="580" cy="50" r="1" fill="#ddeeff">
+      <animate attributeName="opacity" values="0.6;0.15;0.6" dur="4.8s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="710" cy="35" r="0.7" fill="#ffffff">
+      <animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.9s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="55" r="0.9" fill="#ffddee">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="4.1s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="920" cy="40" r="0.8" fill="#ccddff">
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="4.6s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="60" cy="280" r="0.9" fill="#ffffff">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.7s" begin="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="310" r="0.7" fill="#ddeeff">
+      <animate attributeName="opacity" values="0.7;0.2;0.7" dur="4.3s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="290" r="0.8" fill="#ffffff">
+      <animate attributeName="opacity" values="0.6;0.15;0.6" dur="5.2s" begin="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="300" r="1" fill="#ffddee">
+      <animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.4s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="285" r="0.8" fill="#ccddff">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="4.7s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="315" r="0.9" fill="#ffffff">
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="3.9s" begin="0.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="295" r="0.7" fill="#ddeeff">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="4.4s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- 中星星组（中等亮度，中速闪烁） -->
+  <g>
+    <circle cx="85" cy="80" r="1.5" fill="#ffffff">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.8s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="65" r="1.8" fill="#aaccff">
+      <animate attributeName="opacity" values="1;0.15;1" dur="3.2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="85" r="1.5" fill="#ffffff">
+      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.5s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="70" r="2" fill="#ffb3cc">
+      <animate attributeName="opacity" values="0.9;0.1;0.9" dur="3.5s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="670" cy="90" r="1.6" fill="#ffffff">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="840" cy="75" r="1.8" fill="#aaccff">
+      <animate attributeName="opacity" values="0.9;0.15;0.9" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="100" r="1.5" fill="#ffffff">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.9s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="35" cy="200" r="1.7" fill="#ffffff">
+      <animate attributeName="opacity" values="0.9;0.1;0.9" dur="3.1s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="230" r="1.5" fill="#ffb3cc">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.7s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="280" cy="195" r="1.8" fill="#aaccff">
+      <animate attributeName="opacity" values="0.9;0.15;0.9" dur="3.3s" begin="1.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="240" r="1.6" fill="#ffffff">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="0.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="210" r="1.5" fill="#ffffff">
+      <animate attributeName="opacity" values="0.9;0.1;0.9" dur="3.6s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- 亮星星组（亮，快速闪烁） -->
+  <g>
+    <circle cx="150" cy="120" r="2.2" fill="#ffffff">
+      <animate attributeName="opacity" values="1;0.1;1" dur="1.8s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="310" cy="140" r="2.5" fill="#ffb3d9">
+      <animate attributeName="opacity" values="1;0.15;1" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="490" cy="115" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.9;0.1;0.9" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="145" r="2.3" fill="#aaccff">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="130" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.9;0.1;0.9" dur="1.7s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="260" r="2.4" fill="#ffb3cc">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.9s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="440" cy="265" r="2.2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.9;0.1;0.9" dur="2.1s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="260" r="2" fill="#aaccff">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ===== 大星星（带光芒） ===== -->
+  <use href="#bigStar" x="55" y="170" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="2.5s" begin="0s" repeatCount="indefinite"/>
+  </use>
+  <use href="#bigStarPink" x="260" y="110" opacity="0.85">
+    <animate attributeName="opacity" values="0.85;0.2;0.85" dur="2.8s" begin="1s" repeatCount="indefinite"/>
+  </use>
+  <use href="#bigStarBlue" x="860" y="170" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.25;0.9" dur="2.2s" begin="0.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#bigStar" x="560" y="240" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#bigStarPink" x="730" y="50" opacity="0.85">
+    <animate attributeName="opacity" values="0.85;0.3;0.85" dur="2.6s" begin="0.7s" repeatCount="indefinite"/>
+  </use>
+
+  <!-- ===== 月亮 ===== -->
+  <g transform="translate(910, 52)">
+    <!-- 月晕 -->
+    <circle cx="0" cy="0" r="28" fill="#ffeedd" opacity="0.08" filter="url(#softGlow)"/>
+    <circle cx="0" cy="0" r="18" fill="#ffeedd" opacity="0.15" filter="url(#softGlow)"/>
+    <!-- 月牙 -->
+    <circle cx="0" cy="0" r="14" fill="#fff5e6" filter="url(#starGlow)" opacity="0.95"/>
+    <circle cx="5" cy="-2" r="12" fill="#0d0a2e" opacity="0.85"/>
+    <!-- 月光亮点 -->
+    <circle cx="-4" cy="-4" r="2" fill="#ffffff" opacity="0.3"/>
+  </g>
+
+  <!-- ===== 飘落的星光粒子 ===== -->
+  <g>
+    <circle cx="100" cy="30" r="1.2" fill="#ffb3d9" opacity="0.8">
+      <animate attributeName="cy" values="30;340" dur="6s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="100;110;95;105;100" dur="6s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="380" cy="20" r="1" fill="#aaccff" opacity="0.7">
+      <animate attributeName="cy" values="20;340" dur="7s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="380;390;375;385;380" dur="7s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0" dur="7s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="10" r="1.5" fill="#ffb3d9" opacity="0.8">
+      <animate attributeName="cy" values="10;340" dur="5.5s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="620;630;615;625;620" dur="5.5s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="5.5s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="25" r="1" fill="#ffffff" opacity="0.7">
+      <animate attributeName="cy" values="25;340" dur="6.5s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="800;810;795;805;800" dur="6.5s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0" dur="6.5s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ===== 装饰边框（星光主题） ===== -->
+  <rect x="5" y="5" width="970" height="330" rx="6" stroke="#4a1a7a" stroke-width="3.5" fill="none" opacity="0.7"/>
+  <rect x="10" y="10" width="960" height="320" rx="4" stroke="#ff7eb3" stroke-width="1" fill="none" opacity="0.4"/>
+
+  <!-- 边框角星装饰 -->
+  <g opacity="0.6">
+    <circle cx="15" cy="15" r="2" fill="#ffb3d9">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="965" cy="15" r="2" fill="#aaccff">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="15" cy="325" r="2" fill="#aaccff">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="965" cy="325" r="2" fill="#ffb3d9">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ===== 顶部星光装饰栏 ===== -->
+  <rect x="18" y="18" width="944" height="46" rx="3" fill="#0a0a20" opacity="0.7"/>
+  <rect x="18" y="18" width="944" height="46" rx="3" stroke="#4a1a7a" stroke-width="1" fill="none" opacity="0.4"/>
+
+  <!-- 装饰栏星星 -->
+  <g opacity="0.8">
+    <circle cx="38" cy="41" r="4" fill="#ffb3d9" filter="url(#starGlow)">
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="68" cy="41" r="3" fill="#aaccff" filter="url(#starGlow)">
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="98" cy="41" r="3.5" fill="#ffffff" filter="url(#starGlow)">
+      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="135" y="47" fill="#d4a0ff" font-size="15" font-family="Consolas,Menlo,monospace" font-weight="bold" opacity="0.8">
+    ✦ STARLIGHT ✦
+  </text>
+
+  <!-- ===== 主要文字内容 ===== -->
+  <g font-family="Consolas,Menlo,monospace" font-size="17" fill="#ff7eb3" filter="url(#pinkGlow)" font-weight="bold">
+
+    <!-- 第一行：逐字出现 -->
+    <text x="46" y="98">
+      <tspan opacity="0"><animate attributeName="opacity" to="1" begin="0.1s" fill="freeze"/>e</tspan>
+      <tspan opacity="0"><animate attributeName="opacity" to="1" begin="0.2s" fill="freeze"/>c</tspan>
+      <tspan opacity="0"><animate attributeName="opacity" to="1" begin="0.3s" fill="freeze"/>h</tspan>
+      <tspan opacity="0"><animate attributeName="opacity" to="1" begin="0.4s" fill="freeze"/>o</tspan>
+      <tspan> "除了 bug，万事皆可解"</tspan>
+    </text>
+
+    <!-- 第二行：整体淡入 -->
+    <text x="46" y="140" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.3s" fill="freeze"/>
+      echo "头发常在，代码不改"
+    </text>
+
+    <!-- 第三行：整体淡入 -->
+    <text x="46" y="182" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.3s" fill="freeze"/>
+      echo "需求千千万，逻辑第一条"
+    </text>
+
+    <!-- 第四行：整体淡入 -->
+    <text x="46" y="224" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="6.8s" dur="0.3s" fill="freeze"/>
+      echo "人生无缓存，凡事皆重构"
+    </text>
+  </g>
+
+  <!-- ===== 闪烁光标（粉红色，带发光） ===== -->
+  <rect x="24" y="75" width="12" height="22" fill="#ff6b9d" filter="url(#pinkGlow)" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="0.5s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
