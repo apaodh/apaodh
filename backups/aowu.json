@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/ysf/4022779a787e68082599baafab8e0537.png;md5;644caca4dad20841b97f824fc0a58cb4",
+  "spider": "https://nos.netease.com/ysf/4652a697b8920e82984344246bc0fc44.png;md5;ce2bea1c0f749392c9062a4fec6b010c",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -16,7 +16,7 @@
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
     },
     {
-      "name": "更新日期:20260725",
+      "name": "更新日期:20260731",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -90,7 +90,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
+      "ext": "05d95714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed3ce5672e23e500042163788dd6faf8ad235d254cec932a9c4d881e21aa9d10e339a913efbbc09e0d49cf15fb74b2a12b859fcd7dcc7d3b7ef502e95ef9da4b41f54296d03279048aa01d73b730582a5f5b7824bcf08ba9b80b4c521c8581245886c04311b80e40baa6abd7e33839426be18f60d4c58dcd66a40e8c56ecc6b44b2302c3823a5ff69e521e2fde15583c530475063321c652bf7b79d04be83c44feb12a6c5ac1c33fb7d99cffb"
     },
     {
       "name": "⭐韩剧|秒播",
@@ -375,29 +375,47 @@
       "changeable": 0
     },
     {
-      "name": "🐱番薯|动漫",
-      "key": "FanShu",
+      "name": "🐱囧途|动漫",
+      "key": "DMcyc",
       "type": 3,
-      "api": "csp_FanShuAmns",
+      "api": "csp_DMcycAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-    },
-    {
-      "name": "🐱喵物|动漫",
-      "key": "AowuDmMw",
-      "type": 3,
-      "api": "csp_AowuDmAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"
     },
     {
       "name": "🐱花海|动漫",
       "key": "DMhhz",
       "type": 3,
       "api": "csp_DMhhzAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🐱番薯|动漫",
+      "key": "DMfans",
+      "type": 3,
+      "api": "csp_DMfansAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🐱喵物|动漫",
+      "key": "DMaowu",
+      "type": 3,
+      "api": "csp_DMaowuAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"
+    },
+    {
+      "name": "🐱魔都|动漫",
+      "key": "DMmodu",
+      "type": 3,
+      "api": "csp_DMmoduAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
