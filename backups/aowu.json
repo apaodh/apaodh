@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/ysf/4652a697b8920e82984344246bc0fc44.png;md5;ce2bea1c0f749392c9062a4fec6b010c",
+  "spider": "https://cdn.waimaimingtang.com/file/images/bwc/20260731213025-e19b6a38b2.png;md5;0d7d441d1a8965151ad6eba09baffc07",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -335,7 +335,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
+      "ext": "https://www.qwmp4.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qwfun.com"
     },
     {
       "name": "☁️原盘|4K",
@@ -370,6 +370,15 @@
       "key": "SheQugy",
       "type": 3,
       "api": "csp_SheQugyAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "☁️蜗牛|4K",
+      "key": "SheQuwon",
+      "type": 3,
+      "api": "csp_SheQuwonAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
