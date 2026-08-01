@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.waimaimingtang.com/file/images/bwc/20260731213025-e19b6a38b2.png;md5;0d7d441d1a8965151ad6eba09baffc07",
+  "spider": "https://nos.netease.com/ysf/d1d673d8f351367f6bcb0ae1022d4039.png;md5;8f46829eb8a16c0e96ae285df6a3340a",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -16,7 +16,7 @@
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
     },
     {
-      "name": "更新日期:20260731",
+      "name": "更新日期:20260801",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -58,7 +58,7 @@
           "http://www.wogg.lol",
           "https://wogg.xxooo.cf",
           "https://woggpan.888484.xyz",
-          "https://wogg.333232.xyz",
+          "https://www.wogg.net",
           "http://woggpan.xxooo.cf",
           "https://www.wogg.one",
           "https://www.wogg.live"
@@ -76,6 +76,8 @@
       "changeable": 0,
       "ext": {
         "sites": [
+          "https://www.muou.site",
+          "https://www.muou.asia",
           "http://123.666291.xyz",
           "https://666.666291.xyz"
         ],
@@ -335,7 +337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://www.qwmp4.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qwfun.com"
+      "ext": "https://www.qwmp4.com,https://www.qwshow.com,https://www.qwfilm.com,https://www.qwfun.com,https://www.qnnull.com"
     },
     {
       "name": "☁️原盘|4K",
@@ -361,15 +363,6 @@
       "key": "SheQu123",
       "type": 3,
       "api": "csp_SheQu123Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "☁️臻影|4K",
-      "key": "SheQugy",
-      "type": 3,
-      "api": "csp_SheQugyAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
