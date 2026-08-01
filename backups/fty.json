@@ -1,10 +1,10 @@
 {
-  "spider": "https://zl.wpscdn.cn/2026/07/31/space_img/3df86201-c1e9-41cf-b007-73e952fc00aa.jpg;md5;b119c66d47a062cd19d680a81b75d8f1",
+  "spider": "https://zl.wpscdn.cn/2026/08/01/space_img/6fe91409-8419-4c89-8745-f221ba12ed1d.jpg;md5;35002041650f308fab31cdda04a60637",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "修复原创  厂长，新增无限线路",
+      "name": "修复原创  厂长，新增无限线路(8月1更新)",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
