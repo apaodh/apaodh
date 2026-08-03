@@ -559,18 +559,6 @@
       }
     },
     {
-      "key": "金牌GET",
-      "name": "🥇金牌┃[APP]",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://qj4.catbb.xyz",
-        "datakey": "eecbio48dsq13kkk",
-        "init": "V122",
-        "api": 2
-      }
-    },
-    {
       "key": "mifun",
       "name": "🐸mifun｜[APP]",
       "type": 3,
