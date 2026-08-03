@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/ysf/d1d673d8f351367f6bcb0ae1022d4039.png;md5;8f46829eb8a16c0e96ae285df6a3340a",
+  "spider": "https://cdn.waimaimingtang.com/file/images/bwc/20260803200354-098475bd93.png;md5;1903b74bd16bee2258ed1ba164ebc483",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -16,7 +16,7 @@
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
     },
     {
-      "name": "更新日期:20260801",
+      "name": "更新日期:20260803",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -934,15 +934,6 @@
       "key": "My123",
       "type": 3,
       "api": "csp_My123Amns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "📁DIY|我的",
-      "key": "Diyre",
-      "type": 3,
-      "api": "csp_DiyreAmns",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
