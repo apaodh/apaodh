@@ -1,5 +1,5 @@
 {
-  "spider": "http://xz.rihou.cc:88/xz/api.php/vox.jar;md5;956c90df1e5219ba7cb75ab31af36361",
+  "spider": "http://xz.rihou.cc:88/xz/api.php/vox.jar;md5;bacaf87156a5bbfa698bff1fd9d8e1d5",
   "README": "http://rihou.cc:88/README.txt",
   "README2": "http://rihou.cc:88/README2.txt",
   "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
