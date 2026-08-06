@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/08/04/91e79914029dd291238a8b84db871380.jpg;md5;5089d5853a82e434dc5e7575c0e64214",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/08/05/d4156b4b53174bb1ff4e6167926e0b8a.jpg;md5;43c03ea220fbddd2e834d8fe2017bd22",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -16,7 +16,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20260804】🐮",
+      "name": "🐮【更新日期:20260805】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -855,6 +855,14 @@
       "name": "🎠爱盘┃综合🎠",
       "type": 3,
       "api": "csp_SoAiAiPanSoGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "SoHaoSo",
+      "name": "🎠好盘┃综合🎠",
+      "type": 3,
+      "api": "csp_SoHaoSoGuard",
       "searchable": 1,
       "changeable": 0
     },
