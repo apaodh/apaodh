@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-07 16:32:36 <<<
+//      >>> 当前时间是：2026-08-07 22:00:34 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95/
 {
-    "spider": "http://121.205.88.174:25252/仅供测试/custom_spider.jar;md5;90627f87d04febfdb5d7cb48888af1eb",
+    "spider": "http://121.205.88.174:25252/仅供测试/custom_spider.jar;md5;f06aa2a9d607b104773691315f5c997d",
     "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
     "lives": [
