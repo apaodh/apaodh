@@ -1,16 +1,16 @@
-//      >>> 当前时间是：2026-08-07 22:00:42 <<<
+//      >>> 当前时间是：2026-08-10 22:00:26 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 {
-    "spider": "https://nos.netease.com/ysf/f26f89c9230d39276e715f7283e1fa67.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
+    "spider": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/mPbH32yrcujod8XE5oJQSN_20260810094351#.png;md5;55277b00fefe6adfc3288a84f3197c24",
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
     "lives": [
         {
             "name": "📺电视┃直播",
             "type": 0,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/goodcommunication/mydm/main/dm.json",
+            "url": "",
             "ua": "okhttp/3.15",
             "playerType": 2
         }
@@ -78,17 +78,6 @@
             "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cDovL3R2cGFucGFuLnNpdGUiLAogICAgImh0dHA6Ly9mZWltby5mdW4iLAogICAgImh0dHA6Ly94aWFvY2dlZ2Uuc2hvcCIsCiAgICAiaHR0cHM6Ly93d3cubW1wYW5wYW4uc2l0ZSIsCiAgICAiaHR0cDovL3d3dy54aWFvY2dlZ2Uuc2hvcCIKICBdLAogICJ1cmxfa2V5IjogIkR1b3BhbjQiCn0="
         },
         {
-            "key": "csp_guangya",
-            "name": "🦆光鸭┃高峰不卡*网盘4K",
-            "type": 3,
-            "quickSearch": 1,
-            "changeable": "0",
-            "timeout": 15,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cDovL3d3dy5ndWFuZ3lhc2hlLnRvcCIKICBdLAogICJ1cmxfa2V5IjogIkR1b3BhbjUiCn0="
-        },
-        {
             "key": "天天",
             "name": "🚀秒播┃高清影视",
             "type": 3,
@@ -136,6 +125,7 @@
             "name": "🌾农民┃高清影视",
             "type": 3,
             "api": "csp_Wwys",
+            "quickSearch": 1,
             "timeout": 12,
             "ext": "https://vip.wwgz.cn:5200"
         },
@@ -242,16 +232,8 @@
             "ext": "https://www.tangsan.fun/config.php?source=xifan"
         },
         {
-            "key": "方舟动漫",
-            "name": "🌸方舟┃热门动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": "https://www.cyfz.top|e72cdfd629e8895d|V119|okhttp/3.10"
-        },
-        {
             "key": "cycani_java",
-            "name": "🌸次元┃热门动",
+            "name": "🌸次元┃热门动漫",
             "type": 3,
             "api": "csp_Ciyuancheng",
             "searchable": 1,
@@ -260,19 +242,22 @@
             "ext": ""
         },
         {
-            "key": "咕咕动漫",
-            "name": "🥖咕咕┃热门动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD|V119|okhttp/3.10"
-        },
-        {
             "key": "csp_duanju",
             "name": "🔥盒马┃精选短剧",
             "type": 3,
             "timeout": 12,
+            "genre": "shortdrama",
             "api": "csp_HeMa"
+        },
+        {
+            "key": "csp_QM",
+            "name": "🌟七猫┃精选短剧",
+            "type": 3,
+            "searchable": 1,
+            "timeout": 12,
+            "genre": "shortdrama",
+            "api": "csp_DuanJuAiQiMiao",
+            "ext": ""
         },
         {
             "key": "csp_XY",
@@ -280,6 +265,7 @@
             "type": 3,
             "searchable": 1,
             "timeout": 12,
+            "genre": "shortdrama",
             "api": "csp_AppXY",
             "ext": ""
         },
@@ -340,22 +326,6 @@
             "ext": "https://www.4kcz.com"
         },
         {
-            "key": "橙子",
-            "name": "🍊橙子┃高清影视",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://113.31.180.218:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
-                "versionName": "4.3.1",
-                "name": "小橙子",
-                "package": "com.xchengzix.app",
-                "buildNumber": "2001",
-                "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
-            }
-        },
-        {
             "key": "剧圈99",
             "name": "🫎剧圈┃高清影视",
             "type": 3,
@@ -368,6 +338,27 @@
                 "package": "com.qingtangxiaozhuan.xyz",
                 "buildNumber": "2002",
                 "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+            }
+        },
+        {
+            "key": "苹果",
+            "name": "🍎苹果┃高清影视",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "小苹果",
+                "commonKey": "ed5fdsgucxumegqa",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.juechufsh.android.xpg1",
+                "host": "",
+                "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+                "version": "1.0.0.3",
+                "decrypt": "1"
             }
         },
         {
