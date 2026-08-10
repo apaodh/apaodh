@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-07 22:00:39 <<<
+//      >>> 当前时间是：2026-08-10 22:00:23 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://new.xn--4kq62z5rby2qupq9ub.top
 {
-    "spider": "http://oss4liview.moji.com/thd_file/2026/08/05/d4156b4b53174bb1ff4e6167926e0b8a.jpg;md5;43c03ea220fbddd2e834d8fe2017bd22",
+    "spider": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e",
     "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
     "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
     "sites": [
@@ -20,7 +20,7 @@
         },
         {
             "key": "Doubanaaaa",
-            "name": "🐮【更新日期:20260805】🐮",
+            "name": "🐮【更新日期:20260808】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -1055,14 +1055,14 @@
         {
             "name": "Kimentanm",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "playerType": 2
         },
         {
             "name": "综合直播",
             "type": 0,
             "playerType": 2,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "http://193.123.86.190:14888/TV/iptv.php",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         }
     ],
