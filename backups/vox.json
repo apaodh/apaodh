@@ -1,4 +1,4 @@
-//      >>> 当前时间是：2026-08-07 22:00:37 <<<
+//      >>> 当前时间是：2026-08-10 22:00:21 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://rihou.cc:88/demo.php
@@ -339,7 +339,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "sites": "https://wogg.xxooo.cf",
+                "sites": "https://woggpan.xxooo.cf",
                 "filters": "./json/wogg.json",
                 "proxy": "noproxy"
             }
@@ -369,7 +369,7 @@
             "changeable": 1,
             "timeout": 60,
             "ext": {
-                "sites": "http://xiaocgege.shop",
+                "sites": "http://tvpanpan.site",
                 "filters": "./json/wogg2.json",
                 "proxy": "noproxy"
             }
@@ -429,7 +429,7 @@
             "changeable": 1,
             "timeout": 60,
             "ext": {
-                "sites": "https://zhizhen1.top",
+                "sites": "https://www.mihdr.top",
                 "filters": "./json/wogg2.json",
                 "proxy": "noproxy"
             }
@@ -445,21 +445,6 @@
             "timeout": 60,
             "ext": {
                 "sites": "https://tv.yydsys.top/",
-                "filters": "./json/wogg2.json",
-                "proxy": "noproxy"
-            }
-        },
-        {
-            "key": "短木网盘",
-            "name": "🙄短木┃[网盘]",
-            "type": 3,
-            "api": "csp_Wobg",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": {
-                "sites": "https://duanmu.laozhangone.top",
                 "filters": "./json/wogg2.json",
                 "proxy": "noproxy"
             }
