@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-10 22:00:13 <<<
+//      >>> 当前时间是：2026-08-11 22:00:10 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://xn--v4q818bf34b.cc
 {
-    "spider": "https://tc-new.z.wiki/autoupload/k2fxc/20260802/826v/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
+    "spider": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar;md5;e59b88f36887b0fb212ae117a3126a56",
     "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -113,15 +113,6 @@
             }
         },
         {
-            "key": "YunDuo",
-            "name": "☁️┆云朵┆4K",
-            "type": 3,
-            "api": "csp_YunDuo",
-            "searchable": 1,
-            "changeable": 1,
-            "filterable": 1
-        },
-        {
             "key": "PianKu8",
             "name": "🫡┆片库┆4K",
             "type": 3,
@@ -130,15 +121,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://qkys.qukanwh.com"
-        },
-        {
-            "key": "BuBu",
-            "name": "🧸┆布布┆4K",
-            "type": 3,
-            "api": "csp_BuBu",
-            "searchable": 1,
-            "changeable": 1,
-            "filterable": 1
         },
         {
             "key": "huaisang",
@@ -150,15 +132,6 @@
             "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
         },
         {
-            "key": "景仪",
-            "name": "🎈┆景仪┆4K",
-            "type": 3,
-            "api": "csp_App88",
-            "searchable": 1,
-            "filterable": 1,
-            "ext": "AScEBDU8ZGTviWgGR4VE0GGkVwxm9FRojDfGdLd7Uq6yQW7ma68i5+t2StAnXVayevGqI3Kb0rJi2eqa1R3PW9cxHiFDbXAhtGajyY69GUpDZQ615h6l9jBlh/RMkOo3RfAvtXJdZasUTDhxflfJPCn0T5P68L/XHUV9ylgYmABoOSghqLVoMUNWDS5E2PAMVkm39vpIJOyKNEIhVd3EQmPxDSjSoDE56akhNdBPWsT+tZVbLO8rEccdRYGvxYsXmVjhxaXhmzQEoEme5LF/0+x+M2A880NZ5akhrKIl5ZjfREZCgQ6FClx7+L8f8fb2VNiLtFu5538MrSRozjub6WRKe1m5OOdgdOTsAXJXw5QG5IQ/Y/i9VBZTZUjqP+0TpP4h92QjLynjJAFzwSr3bAOOIvEJW2LsK+hocK72wpyVG93vl42XQpU5s95dAVJOOOnbawZUsOq8a0ctuSsSdWQ="
-        },
-        {
             "key": "枫眠",
             "name": "🍁┆枫眠┆4K",
             "type": 3,
@@ -168,25 +141,11 @@
             "ext": "AcfD7zVpQ/BXUN8kr7QyOuy8EGynlmV43purvZ/Q6vh0G+/zxmYTnl1TVxs16PqtZNzVbGTHZCi39PA5ajhXxhTarRfFdlQ5D2hJnU6hdqXgWkaERmRX+jTzArHWSZuTHH52mvPd4s2puv4cJlgE8Amm+Vu7oXDj7LwAWAgPp6O2kJQGDdUCLyK7VXTBJJMPQQ=="
         },
         {
-            "key": "悯善",
-            "name": "☀️┆悯善┆4K",
-            "type": 3,
-            "api": "csp_App88",
-            "ext": "AY/LmvuAAyhXffcGv5StyHm1MkGdY4inQLRC3KICnxUJBpq0d5dLhvE0+MW8XruH+M/Q/Ruqd6NayN9rihHGuotzXSTrDHgoZ2/dm2JlJ7GYOYfBorPhMPjuOhTNMg9w/J6oP4DXluvDpXNj9uOKq7g/Cx7vrKF6utOSaE1gUgDQwT251mOGTzGsd3ZrtEeepgI6hOdB2gJ4hHRumNhlbVtWDdpnVMYvhCIuH2HUqJFZWM5T+gEZTMLfeUEJt7ScfaQp90qNZID1YNo/tQOaFLGN12o4CkPtCNoYs+emjhVVqIjJzgfplCPIEyjRADqhur0c48FwCiJyp/XGZFmsMJaPKqvOkO+0H5YMKsR+EMmXCr6n0n1VnwGGpYl3maiq1SB78yDnh16291IjwXdERP1csTe41Vg3ppIixtk6q1etAikUle+6fjSFGvAvDYNr2Q=="
-        },
-        {
             "key": "长泽",
             "name": "😗┆长泽┆4K",
             "type": 3,
             "api": "csp_App88",
             "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
-        },
-        {
-            "key": "清沅",
-            "name": "❄️┆清沅┆4K",
-            "api": "csp_AppNox",
-            "type": 3,
-            "ext": "ASjKEhQKe/DZHt0fbLID47aB3aYcWUG5aIPwrmTCgGinaSykux5CZpbz57zl1moRZGFkoEXqk7decpKNU6W/p/6OTfj3JWvZtr89yPZSxNyjJm1Il5upXQT68sXR/0WG392H71MN7Q8NC8xkSOuwAq7EfX2cuHMsiqFeCCugzAiINUiEqvboCFdXiI97C6kqqqiaQIS9d+R1r7krr5vQXWtky7XJNsiK5ACjppyTh68cbONYIcgLp5Kg5woh/wj9xmNT6mFGqF2D3j2RUaLoWYf+K1+ltBiuzZ7THWKwrnpBBig8XUAG3lXNXiFhPILyYWfr+1j/UoInhNITzJJ+SSRc88KmOk5kpch+idGzVMzHIq/bLpRRxE0iV8Qdtc2atKF9QUqPXJLrwv21Dl+nxgPEGOZ+71L+gABeQdvXO7xvyzUnd+rOidPJr1mBsfu9ySbcqHkhL5EIEQpGHwRhG/yN3Y5xj0BU+SdSxnDo+CwMC+g+WCts34c2u8h2tz7G5vuTw8QvDF23kF/BZeD2QaoCBAd3SDG9ObAichfuO1nDa938+Ul+iekNOEPtPFr6k5o+px/JJkE7MKYhekE/2JfmIkbkBHdnewJYckdM37/9EKsnAozbDyFKhfKR06Es52KtuAhGyh1B8uyfsj33qFpreAqGam8kjEHdYA0i832o0BtTU2gS3mf3NoijVH/XNmlJRuNXo9yYxdjuip4Eq4iqIgajM16MGAIJ0rumYhxJ5uJUFDlf55b9iS+DvJ8wotnBvfdINpAaeXPPlVc/1JDp1rIOw0qg2XIRAafLL7kzXnW8djs2dPSQU1+j9LIrfQ6u3k4lqUs9gRMW1JhwC/4iqimnwg0KsVValaplt+fxFHhwCCkS45uLf8BaY+UZtp5ZDffbi3Q0EDAK8F210Bzd5l8W8MokURUSj374Z7y2hAROBAAgZ8qWRrFOmBC+I+LUCm7sV4h7Mwdpe8sDAtxBhxOpBAYyV8eACQsDbnQsBvizlafy16ptRrArViG0uB1VSPqvi8gqcFD1zMl+uRo="
         },
         {
             "key": "zhiqiu",
@@ -233,11 +192,192 @@
         {
             "key": "三秋影视",
             "name": "🍂┆三秋┆APP",
-            "api": "csp_App3Q",
             "type": 3,
+            "api": "csp_App3Q",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "ext": "ATfab5Q25IufTwwLdrvSbAvhFRPKjY8JKWj8MMpX1mOhyE4ni9Rd4jFGEXV1B8LEdVdPKLimTtldLOH9MM5kKz3eIAbzORQzezFObAgjfO9UmlcLhCwe8EG3B6Dhtem5CqThFyXvVjbs7eaBXef5wq0eDMj43LvdGFBgAKcrQjLABQPG0vwu2G6lQ68pRe/Id6Q5gfrBx8vni2Md2wgtsj+nDnP6+trsMWYM56/vLe83pMy/CA3tzuPWYYK27AVipVTxuS+G7unbrERdHJ+ipOJCW0poZXaJch5kGHt6MJiSDzVN97t/lMbfMo6MMQNL36u4KkTQcmL+6DXvT4kui+Q5Mk/hKKCbno5+x3OQhMLL7ykVy2RSDI2Zu2/+PGrxMw=="
+        },
+        {
+            "key": "马猴影视",
+            "name": "🐒┆马猴┆APP",
+            "type": 3,
+            "api": "csp_App3Q",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "ASEWUjy0Q7z3bcTs9jbvsYvVywixlfr0DrqYoIMLmT/STUaGV5sIN8Cq22AFhitD9CM9WncTOVoy5bFqYRy3gLSHYCf9eOa/YoHaTLe9x7EtJv8wcK5mErRMJ4iouFpnrSKHAGnDVCT1mxo2/arZw4c0FItyxKhorMaF7uYUw1lP/NSG6IyIRChsy3c+3jGRpzJHHM7ac46skwJ3pLDk30tddUwhazaJlLIq3HzTVVQDb1x4dlD4Wu4pN35PX+F/PrC10L7PfHWCujvns3MiDvTFyBmxa5ANu9OdTawDgWnBaKo875BhFN1ad0uN34iDPdLect9s1QPYkTu+N2IVpsixO5YTMyxZV+6cjMAXTXH66bAau6WAEzwQoa6O/jQszw=="
+        },
+        {
+            "key": "云朵影视",
+            "name": "☁️┆云朵┆APP",
+            "type": 3,
+            "api": "csp_App3Q",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "AZ0bCdOUvQVBOaiOxVOpdEjrR4QphBZmOtfGlbHG6yePOQHP0PKG+safVrYPCAhoMIReG/eNPkJ940acnPCQUzZ+wbnvvf/DO90pT4sDpCqRGu2wBUipuEoesDMDXzhoA2T+fyRa0Lxa82ayevF21bxiq6KmXFrD2j4Bsa0tbDiU7Y9hOdqx9jX0FrMnTdKPj0k/mTQH28BhJNa/yTEkjupoM7cFcYsntR0OFLsZE3HQHhF6e/ObCwam/Yzso4ca40vMI1IHtVOuNJFFY4nn6Dzkep46et1fSnuQbFnnJyPJvNWaSeob0RZn8GnOGl33y5RK2+Aq9/sfkDLVvGoD3d9JHJDApmJ3mMuRYv2iFwa2ccL5aQ6APQi9KLRgQnw2u68aIrGFNLtr3to7DzGV+g4="
+        },
+        {
+            "key": "知年",
+            "name": "📅┆知年┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "zn"
+            }
+        },
+        {
+            "key": "弦歌",
+            "name": "🎶┆弦歌┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "xg"
+            }
+        },
+        {
+            "key": "兰芷",
+            "name": "🌸┆兰芷┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "lz"
+            }
+        },
+        {
+            "key": "怀瑾",
+            "name": "💎┆怀瑾┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "hj"
+            }
+        },
+        {
+            "key": "疏影",
+            "name": "🌺┆疏影┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "sy"
+            }
+        },
+        {
+            "key": "惊鸿",
+            "name": "💫┆惊鸿┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "jh"
+            }
+        },
+        {
+            "key": "昭华",
+            "name": "✨┆昭华┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "zh"
+            }
+        },
+        {
+            "key": "枕霜",
+            "name": "❄️┆枕霜┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "zs"
+            }
+        },
+        {
+            "key": "清沅",
+            "name": "💧┆清沅┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "qy"
+            }
+        },
+        {
+            "key": "令汐",
+            "name": "🌊┆令汐┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "lx"
+            }
+        },
+        {
+            "key": "观澜",
+            "name": "🎞️┆观澜┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "gl"
+            }
+        },
+        {
+            "key": "孟葭",
+            "name": "🌿┆孟葭┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "mj"
+            }
+        },
+        {
+            "key": "长明",
+            "name": "🕯️┆长明┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "cm"
+            }
+        },
+        {
+            "key": "寻川",
+            "name": "🏞️┆寻川┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "xc"
+            }
+        },
+        {
+            "key": "南枝",
+            "name": "🌱┆南枝┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "nz"
+            }
+        },
+        {
+            "key": "沐辞",
+            "name": "🍃┆沐辞┆APP",
+            "api": "csp_AppUn",
+            "type": 3,
+            "ext": {
+                "php": "https://max.moyu666666.top/appun.php",
+                "playname": "mc"
+            }
         },
         {
             "key": "Libvio",
@@ -545,7 +685,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czzymovie.com"
+            "ext": {
+                "cookie": "",
+                "username": "",
+                "password": "",
+                "site": [
+                    "https://www.4kcz.com",
+                    "https://www.cz4k.com",
+                    "https://cz01.tv",
+                    "https://cz01.vip",
+                    "https://www.czzy.site",
+                    "https://czzy.top"
+                ]
+            }
         },
         {
             "key": "wencai",
