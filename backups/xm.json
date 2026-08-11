@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-10 22:00:26 <<<
+//      >>> 当前时间是：2026-08-11 22:00:43 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 {
-    "spider": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/mPbH32yrcujod8XE5oJQSN_20260810094351#.png;md5;55277b00fefe6adfc3288a84f3197c24",
+    "spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1786441652042_3gdAtt9a.zip;md5;72f76facb402366ab5f43d5dc6a45bf7",
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
     "lives": [
@@ -32,6 +32,16 @@
             "type": 3,
             "api": "csp_Config",
             "searchable": 0
+        },
+        {
+            "key": "zhizhen1",
+            "name": "🚀臻彩┃高峰不卡*网盘4K",
+            "type": 3,
+            "api": "csp_ZhiZhen",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "eyJzaXRlIjoiaHR0cHM6Ly93d3cueG4tLTZrcnozMGQuZGU1Lm5ldCIsInNlY3JldCI6IlpoaVpoZW5AMjAyNl8hIyJ9"
         },
         {
             "key": "csp_Netfixtv",
@@ -222,6 +232,16 @@
             }
         },
         {
+            "key": "ciyuancheng",
+            "name": "🍚次元┃热门动漫",
+            "type": 3,
+            "api": "csp_Ciyuancheng",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMUtaUVIxVEJTUFJZMUhIOEU4V04xWThaSyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3MDM0NDMwLCJuYmYiOjE3ODY0Mjk2MzAsImlhdCI6MTc4NjQyOTYzMH0.epvHnPb8cO-yFfGvA1BnyGzYMDDJrB2YOvbnB9Efb4c\"}"
+        },
+        {
             "key": "稀饭动漫[APP]",
             "name": "🍚稀饭┃热门动漫",
             "type": 3,
@@ -230,16 +250,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.tangsan.fun/config.php?source=xifan"
-        },
-        {
-            "key": "cycani_java",
-            "name": "🌸次元┃热门动漫",
-            "type": 3,
-            "api": "csp_Ciyuancheng",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
         },
         {
             "key": "csp_duanju",
@@ -435,8 +445,8 @@
             "name": "🎵酷酷┃在线音乐",
             "type": 3,
             "api": "csp_KuKuMusic",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
             "style": {
