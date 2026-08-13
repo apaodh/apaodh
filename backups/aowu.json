@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-11 22:00:12 <<<
+//      >>> 当前时间是：2026-08-13 22:01:07 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv
 {
-    "spider": "https://zl.wpscdn.cn/2026/08/08/space_img/20e4ea98-d34f-4dc1-88ef-df3f30582e9a.png;md5;e165ba5a5554b96951aeb13a5a82532a",
+    "spider": "https://nos.netease.com/ysf/94fce0ad0fb002e36283e7beb2440f64.png;md5;c01dcf611c00ffadf8584263214da7f7",
     "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -20,7 +20,7 @@
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
         },
         {
-            "name": "更新日期:【20260808】",
+            "name": "更新日期:【20260812】",
             "key": "Y360",
             "type": 3,
             "api": "csp_Y360Amns",
@@ -408,14 +408,13 @@
             "changeable": 0
         },
         {
-            "name": "🐱喵物┃动漫",
-            "key": "DMaowu",
+            "name": "🐱青云┃动漫",
+            "key": "DMqingk",
             "type": 3,
-            "api": "csp_DMaowuAmns",
+            "api": "csp_DMqingkAmns",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "ext": "db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"
+            "changeable": 0
         },
         {
             "name": "🐱魔都┃动漫",
@@ -972,7 +971,7 @@
             "name": "综合直播",
             "type": 0,
             "playerType": 2,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         },
         {
@@ -985,7 +984,7 @@
         {
             "name": "Kimentanm",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "playerType": 2
         },
         {
