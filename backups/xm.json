@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-11 22:00:43 <<<
+//      >>> 当前时间是：2026-08-13 22:01:32 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 {
-    "spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1786441652042_3gdAtt9a.zip;md5;72f76facb402366ab5f43d5dc6a45bf7",
+    "spider": "https://nos.netease.com/ysf/404777d4220a586007eb62f4cb0644a8.png;md5;33afef828e6005506fa473d5809be72f",
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
     "lives": [
@@ -159,19 +159,20 @@
             "api": "csp_Gz360"
         },
         {
-            "key": "布布影视APP",
+            "key": "bubu_spider",
             "name": "🌺大鹅┃高清影视",
             "type": 3,
-            "api": "csp_AppYd",
+            "api": "csp_DuoDuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": {
-                "host": "https://bubutv.top",
-                "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
-                "updateId": "38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7",
-                "deviceBrand": "vivo",
-                "deviceModel": "V2309A",
-                "pkg": "com.sunshine.tv",
-                "sk": "SK-thanks",
-                "ver": "6"
+                "host": "https://323433ssdfd.top",
+                "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+                "aid": "com.web.player",
+                "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+                "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+                "sign": "ddtvf65f3a83d6d9ad6f"
             }
         },
         {
@@ -204,6 +205,15 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
+        },
+        {
+            "key": "不错",
+            "name": "💥不错┃热门4K",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": "https://appcmszbc.zbc4k.app|pYrEkiWRYhBLTUTC|V119|okhttp/3.10.0"
         },
         {
             "key": "枫叶影视",
