@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-13 22:01:32 <<<
+//      >>> 当前时间是：2026-08-15 22:01:25 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 {
-    "spider": "https://nos.netease.com/ysf/404777d4220a586007eb62f4cb0644a8.png;md5;33afef828e6005506fa473d5809be72f",
+    "spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
     "lives": [
@@ -176,19 +176,18 @@
             }
         },
         {
-            "key": "云朵影视APP",
-            "name": "🌺云朵┃热门4K",
+            "key": "半日99",
+            "name": "☀️半日|┃热门动漫",
             "type": 3,
-            "api": "csp_AppYd",
+            "api": "csp_App99",
             "ext": {
-                "host": "https://ds3xy2yunsa.xyz",
-                "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
-                "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
-                "deviceBrand": "vivo",
-                "deviceModel": "V2309A",
-                "pkg": "com.tvcloud.io",
-                "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
-                "ver": "1"
+                "host": "http://103.217.190.91:19987/app/bn",
+                "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+                "versionName": "3.5.8",
+                "name": "半日闲",
+                "package": "com.yf.lelian",
+                "buildNumber": "2001",
+                "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
             }
         },
         {
@@ -205,15 +204,6 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
-        },
-        {
-            "key": "不错",
-            "name": "💥不错┃热门4K",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": "https://appcmszbc.zbc4k.app|pYrEkiWRYhBLTUTC|V119|okhttp/3.10.0"
         },
         {
             "key": "枫叶影视",
@@ -392,13 +382,13 @@
             "ext": {
                 "appName": "橘汁",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+                "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
                 "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
                 "commonKey": "ed5fdsgucxumegqa",
-                "pkg": "com.lxf.snzlcgtzxyx",
-                "host": "",
+                "pkg": "com.mxj.wylcjbxyx",
+                "host": "http://juziapp.hzhcbkj.cn",
                 "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-                "version": "3.0.2.1",
+                "version": "3.0.2.3",
                 "decrypt": "1"
             }
         },
