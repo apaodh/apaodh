@@ -1,14 +1,14 @@
-//      >>> 当前时间是：2026-08-13 22:01:30 <<<
+//      >>> 当前时间是：2026-08-15 22:01:24 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://www.xn--sss604efuw.cc/tv
 {
-    "spider": "https://zl.wpscdn.cn/2026/08/03/space_img/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",
+    "spider": "https://zl.wpscdn.cn/2026/08/15/space_img/d226e2c6-bf5a-4c52-bf56-4a1d0ea67487.jpg;md5;5bba0eefe56b867eaadb31af132bea70",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "点我切源",
-            "name": "修复原创  厂长，新增无限线路(8月3更新)",
+            "name": "<8.15更新> 修复哔哔、听书、ZB",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -106,6 +106,17 @@
             "api": "csp_NewCzGuard",
             "timeout": 10,
             "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "海绵",
+            "name": "🍄海绵┃不卡",
+            "type": 3,
+            "api": "csp_HmysGuard",
+            "timeout": 10,
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -644,18 +655,18 @@
     ],
     "lives": [
         {
-            "name": "develop202",
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "develop",
             "type": 0,
             "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "playerType": 2,
             "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "Kimentanm",
-            "type": 0,
-            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-            "playerType": 2
         },
         {
             "name": "范明明（需开启V6网络）",
