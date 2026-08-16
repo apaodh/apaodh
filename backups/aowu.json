@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-16 13:50:41 <<<
+//      >>> 当前时间是：2026-08-16 22:00:58 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv
 {
-    "spider": "https://nos.netease.com/ysf/5b59a8c430e57ec17076b858f37a190e.png;md5;add3cce49f87f6344d3499ddc932027b",
+    "spider": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png;md5;91214203a2dbdb8e3f953fa27e609283",
     "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -664,7 +664,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "BiliHeji",
+            "ext": {
+                "home": "1",
+                "json": "https://file.icve.com.cn/file_doc/299/797/4AFC77E563EDEDB37F18BA6458610E16.aowu",
+                "cookie": ""
+            },
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -678,7 +682,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "BiliGequ",
+            "ext": {
+                "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100843-9aefe070b5.aowu",
+                "cookie": ""
+            },
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -692,7 +699,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "BiliXiqu",
+            "ext": {
+                "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100913-7601517540.aowu",
+                "cookie": ""
+            },
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -706,7 +716,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "BiliSer",
+            "ext": {
+                "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
+                "cookie": ""
+            },
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -720,7 +733,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "BiliXxue",
+            "ext": {
+                "json": "https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz",
+                "cookie": ""
+            },
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -734,7 +750,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "BiliCzong",
+            "ext": {
+                "json": "https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu",
+                "cookie": ""
+            },
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -748,7 +767,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "BiliGzong",
+            "ext": {
+                "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
+                "cookie": ""
+            },
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -893,10 +915,16 @@
     ],
     "lives": [
         {
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
+        },
+        {
             "name": "综合直播",
             "type": 0,
             "playerType": 2,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "http://193.123.86.190:14888/TV/iptv.php",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         },
         {
@@ -904,12 +932,6 @@
             "name": "咖啡体育",
             "type": 3,
             "api": "csp_KafLiveAmns",
-            "playerType": 2
-        },
-        {
-            "name": "Kimentanm",
-            "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "playerType": 2
         },
         {
@@ -1055,188 +1077,6 @@
                 "149.112.112.112"
             ]
         }
-    ],
-    "ads": [
-        "mozai.4gtv.tv"
-    ],
-    "ijk": [
-        {
-            "group": "软解码",
-            "options": [
-                {
-                    "category": 4,
-                    "name": "opensles",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "overlay-format",
-                    "value": "842225234"
-                },
-                {
-                    "category": 4,
-                    "name": "framedrop",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "soundtouch",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "start-on-prepared",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "http-detect-range-support",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "fflags",
-                    "value": "fastseek"
-                },
-                {
-                    "category": 2,
-                    "name": "skip_loop_filter",
-                    "value": "48"
-                },
-                {
-                    "category": 4,
-                    "name": "reconnect",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "enable-accurate-seek",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-auto-rotate",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-handle-resolution-change",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-hevc",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "600000000"
-                }
-            ]
-        },
-        {
-            "group": "硬解码",
-            "options": [
-                {
-                    "category": 4,
-                    "name": "opensles",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "overlay-format",
-                    "value": "842225234"
-                },
-                {
-                    "category": 4,
-                    "name": "framedrop",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "soundtouch",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "start-on-prepared",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "http-detect-range-support",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "fflags",
-                    "value": "fastseek"
-                },
-                {
-                    "category": 2,
-                    "name": "skip_loop_filter",
-                    "value": "48"
-                },
-                {
-                    "category": 4,
-                    "name": "reconnect",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "enable-accurate-seek",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-auto-rotate",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-handle-resolution-change",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-hevc",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "600000000"
-                }
-            ]
-        }
-    ],
-    "proxy": [
-        "raw.githubusercontent.com",
-        "googlevideo.com",
-        "cdn.v82u1l.com",
-        "cdn.iz8qkg.com",
-        "cdn.kin6c1.com",
-        "c.biggggg.com",
-        "c.olddddd.com",
-        "haiwaikan.com",
-        "www.histar.tv",
-        "youtube.com",
-        "uhibo.com",
-        ".*boku.*",
-        ".*nivod.*",
-        ".*ulivetv.*",
-        "iill.top"
     ],
     "rules": [
         {
