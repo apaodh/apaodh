@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-15 22:01:01 <<<
+//      >>> 当前时间是：2026-08-16 13:40:53 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv
 {
-    "spider": "https://nos.netease.com/ysf/648866e65bfbae8010145f8abcc12f5f.png;md5;e43bbee3ea80d065623f8259025ad78e",
+    "spider": "https://nos.netease.com/ysf/5b59a8c430e57ec17076b858f37a190e.png;md5;add3cce49f87f6344d3499ddc932027b",
     "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -20,12 +20,12 @@
             "ext": "Douban"
         },
         {
-            "name": "更新日期:【20260814】",
+            "name": "更新日期:【20260816】",
             "key": "Y360",
             "type": 3,
             "api": "csp_Y360Amns",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "changeable": 0,
             "ext": "Y360"
         },
@@ -753,6 +753,15 @@
                 "type": "rect",
                 "ratio": 1.433
             }
+        },
+        {
+            "name": "📖嗷嗚┃听书",
+            "key": "TSaowu",
+            "type": 3,
+            "api": "csp_TSaowuAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "name": "📖富强┃听书",
