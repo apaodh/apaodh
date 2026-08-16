@@ -1,4 +1,4 @@
-//      >>> 当前时间是：2026-08-15 22:01:25 <<<
+//      >>> 当前时间是：2026-08-16 13:45:42 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
@@ -177,7 +177,7 @@
         },
         {
             "key": "半日99",
-            "name": "☀️半日|┃热门动漫",
+            "name": "☀️半日┃热门影视",
             "type": 3,
             "api": "csp_App99",
             "ext": {
@@ -195,15 +195,6 @@
             "name": "🍬山楂┃热门4K",
             "type": 3,
             "api": "csp_PianKu8"
-        },
-        {
-            "key": "爱营",
-            "name": "💥爱影┃热门4K",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
         },
         {
             "key": "枫叶影视",
