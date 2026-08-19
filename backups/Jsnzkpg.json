@@ -1,4 +1,4 @@
-//      >>> 当前时间是：2026-08-16 22:01:03 <<<
+//      >>> 当前时间是：2026-08-19 08:00:27 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
@@ -19,7 +19,7 @@
         {
             "name": "👖裤佬抖音直播",
             "type": 0,
-            "url": "https://stymei2.pages.dev/live.m3u"
+            "url": "https://douyin.445569.xyz/live.m3u"
         },
         {
             "name": "👖裤佬快手直播",
@@ -48,23 +48,23 @@
         },
         {
             "name": "🍿虎牙TV直播",
-            "type": 1,
-            "url": "http://nn.7x9d.cn/xz/虎牙.php"
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/huya_live.m3u"
         },
         {
             "name": "🍿斗鱼TV直播",
-            "type": 1,
-            "url": "http://nn.7x9d.cn/xz/斗鱼.php"
-        },
-        {
-            "name": "🍿日后TV直播",
             "type": 0,
-            "url": "http://rihou.cc:555/gggg.nzk"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/douyu_live.m3u"
         },
         {
-            "name": "🍿潇雨TV直播",
-            "type": 1,
-            "url": "https://0701.tv1288.xyz"
+            "name": "🍿哔哩TV直播",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/bilibili_live.m3u"
+        },
+        {
+            "name": "🍿歪歪TV直播",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/yy_live.m3u"
         },
         {
             "name": "🍿涛涛TV直播",
