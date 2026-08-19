@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-16 22:01:04 <<<
+//      >>> 当前时间是：2026-08-19 08:00:28 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://new.xn--4kq62z5rby2qupq9ub.top
 {
-    "spider": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
+    "spider": "http://oss4liview.moji.com/thd_file/2026/08/18/fda2afceeb158aa34ac538f26ebd6638.jpg;md5;5bd4dcbbbcc4cd71d86a8f2e61ab0d2b",
     "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
     "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
     "sites": [
@@ -20,7 +20,7 @@
         },
         {
             "key": "Doubanaaaa",
-            "name": "🐮【更新日期:20260814】🐮",
+            "name": "🐮【更新日期:20260819】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -243,24 +243,6 @@
             "changeable": 0
         },
         {
-            "key": "WexAiV6DaShiXiong",
-            "name": "💥师兄┃秒播💥",
-            "type": 3,
-            "api": "csp_WexAiV6DaShiXiongGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiV6TeGou",
-            "name": "💥太狗┃秒播💥",
-            "type": 3,
-            "api": "csp_WexAiV6TeGouGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
             "key": "賤賤",
             "name": "💥贱片┃秒播💥",
             "type": 3,
@@ -423,22 +405,6 @@
             "name": "🤡次元┃动漫🤡",
             "type": 3,
             "api": "csp_AnimeCiYuanChengGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "AnimeJiongCiYuanGuard",
-            "name": "🤡小囧┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeJiongCiYuanGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "AnimeAiMiaoWu",
-            "name": "🤡喵呜┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeAiMiaoWuGuard",
             "searchable": 1,
             "changeable": 0
         },
