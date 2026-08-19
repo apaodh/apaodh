@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-16 22:01:07 <<<
+//      >>> 当前时间是：2026-08-19 08:00:31 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 {
-    "spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
+    "spider": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f",
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
     "lives": [
@@ -32,16 +32,6 @@
             "type": 3,
             "api": "csp_Config",
             "searchable": 0
-        },
-        {
-            "key": "zhizhen1",
-            "name": "🚀臻彩┃高峰不卡*网盘4K",
-            "type": 3,
-            "api": "csp_ZhiZhen",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "eyJzaXRlIjoiaHR0cHM6Ly93d3cueG4tLTZrcnozMGQuZGU1Lm5ldCIsInNlY3JldCI6IlpoaVpoZW5AMjAyNl8hIyJ9"
         },
         {
             "key": "csp_Netfixtv",
@@ -131,6 +121,29 @@
             "ext": ""
         },
         {
+            "key": "爱影视",
+            "name": "🚀爱影┃高清影视",
+            "type": 3,
+            "api": "csp_WhaleApp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "proxy": "https://www.tangsan.fun/jingyu.php",
+                "site": "aiyingshi",
+                "pic": "http://222.211.75.252:23433"
+            }
+        },
+        {
+            "key": "4K影视",
+            "name": "🌾热门┃低版4K",
+            "type": 3,
+            "api": "csp_AppGet",
+            "quickSearch": 1,
+            "timeout": 12,
+            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+        },
+        {
             "key": "csp_Wwys",
             "name": "🌾农民┃高清影视",
             "type": 3,
@@ -159,10 +172,25 @@
             "api": "csp_Gz360"
         },
         {
+            "key": "半日99",
+            "name": "☀️半日┃热门影视",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://103.217.190.91:19987/app/bn",
+                "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+                "versionName": "3.5.8",
+                "name": "半日闲",
+                "package": "com.yf.lelian",
+                "buildNumber": "2001",
+                "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+            }
+        },
+        {
             "key": "bubu_spider",
             "name": "🌺大鹅┃高清影视",
             "type": 3,
-            "api": "csp_DuoDuo",
+            "api": "csp_YunDuo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -176,18 +204,19 @@
             }
         },
         {
-            "key": "半日99",
-            "name": "☀️半日┃热门影视",
+            "key": "yunduo",
+            "name": "🌺云朵┃高清影视",
             "type": 3,
-            "api": "csp_App99",
+            "api": "csp_YunDuo",
             "ext": {
-                "host": "http://103.217.190.91:19987/app/bn",
-                "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
-                "versionName": "3.5.8",
-                "name": "半日闲",
-                "package": "com.yf.lelian",
-                "buildNumber": "2001",
-                "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+                "host": "https://y23xxa23duo12.xyz",
+                "web_sign": "yda81x6d9ad3c4s",
+                "x_client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+                "need_login": true,
+                "account_url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/zhanghao.json",
+                "dev": "com.web.player.6c3b998c",
+                "id": "WF-9e14d752872961ca1f5f125a6607c2712535b8d8b5c1294423c2da8436a41000",
+                "sk": "WEB-df5526941b0e3165d0a8485119ca3628b45f2b4a5c4b888bf01645a7060e1638"
             }
         },
         {
@@ -230,7 +259,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMUtaUVIxVEJTUFJZMUhIOEU4V04xWThaSyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3MDM0NDMwLCJuYmYiOjE3ODY0Mjk2MzAsImlhdCI6MTc4NjQyOTYzMH0.epvHnPb8cO-yFfGvA1BnyGzYMDDJrB2YOvbnB9Efb4c\"}"
+            "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMU0wOVlTOURRMlpGN1I5SERYRFg4RloySyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3NjQ1NDcxLCJuYmYiOjE3ODcwNDA2NzEsImlhdCI6MTc4NzA0MDY3MX0.OLhIujYjpo6H2RNhjCQ7jln9SxHzYshnDSA4HmwffDM\"}"
         },
         {
             "key": "稀饭动漫[APP]",
@@ -477,6 +506,22 @@
             "style": {
                 "type": "rect",
                 "ratio": 3.8
+            }
+        },
+        {
+            "key": "弹幕",
+            "name": "弹幕(测试)",
+            "type": 3,
+            "jar": "https://img.bj0yx.com/5556404903854080;md5;c1fd2e2b4af4d5112a691e583bfb5208",
+            "api": "csp_SecureDanmu",
+            "index": 1,
+            "ext": {
+                "apiUrls": [
+                    "https://danmu.0000996.xyz/87654321|公益源",
+                    "https://dm.wodenas.xin/xiatianembydmkk|公益源1",
+                    "https://uzdm.616222.xyz|uz公益源"
+                ],
+                "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
             }
         },
         {
