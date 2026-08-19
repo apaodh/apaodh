@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-16 22:01:01 <<<
+//      >>> 当前时间是：2026-08-19 08:00:24 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95/
 {
-    "spider": "http://121.205.88.174:25252/仅供测试/custom_spider.jar;md5;f06aa2a9d607b104773691315f5c997d",
+    "spider": "http://121.205.88.174:25252/仅供测试/custom_spider.jar;md5;7f1ec368ac1701d5d81ed3a7fe878bbf",
     "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
     "lives": [
@@ -80,19 +80,6 @@
             "name": "糖豆|舞蹈",
             "type": 3,
             "api": "csp_HBTangDou"
-        },
-        {
-            "key": "muxi",
-            "name": "人人|弹幕",
-            "type": 3,
-            "api": "csp_HBrenren"
-        },
-        {
-            "key": "fishhxq",
-            "name": "韩圈|弹幕",
-            "type": 3,
-            "api": "csp_FishHxq",
-            "ext": "DyoqWQInJUMuGFdcDzo2Bjg3KgUuDwoENzYhHDhdUQEuUzRBDVAfHzsCBA8DJgYFDTFNHgAnKUg"
         },
         {
             "key": "巴士",
@@ -273,36 +260,6 @@
             "name": "天翼|推送",
             "type": 4,
             "api": "http://38.76.197.172:15151/api.php?type=tianyi"
-        },
-        {
-            "key": "枫叶电影",
-            "name": "枫叶|弹幕",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": {
-                "请求头": "手机",
-                "简介": "剧情介绍:+text cor3\">[*],&&</div>",
-                "图片": "data-src=\"&&\"[替换:amp;>>空]",
-                "主页url": "https://www.cd-zj.com/label/qq.html",
-                "副标题": "ft2\">&&</i>",
-                "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
-                "播放数组": "anthology-list-play size\">&&</ul>",
-                "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-                "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-            }
-        },
-        {
-            "key": "茉莉",
-            "name": "茉莉|弹幕",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_HBgetapp",
-            "ext": {
-                "host": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-                "appkey": "88689667dce61725",
-                "appiv": "88689667dce61725"
-            }
         },
         {
             "key": "灵虎",
