@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-19 08:00:28 <<<
+//      >>> 当前时间是：2026-08-20 08:00:27 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://new.xn--4kq62z5rby2qupq9ub.top
 {
-    "spider": "http://oss4liview.moji.com/thd_file/2026/08/18/fda2afceeb158aa34ac538f26ebd6638.jpg;md5;5bd4dcbbbcc4cd71d86a8f2e61ab0d2b",
+    "spider": "http://oss4liview.moji.com/thd_file/2026/08/20/cfd3c93bcaeba483f8bf7a4a834254a6.jpg;md5;5dae36d8839a6d07d094c761f54a271f",
     "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
     "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
     "sites": [
@@ -20,7 +20,7 @@
         },
         {
             "key": "Doubanaaaa",
-            "name": "🐮【更新日期:20260819】🐮",
+            "name": "🐮【更新日期:20260820】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
