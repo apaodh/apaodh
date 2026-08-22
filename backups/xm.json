@@ -1,11 +1,10 @@
-//      >>> 当前时间是：2026-08-21 08:01:04 <<<
+//      >>> 当前时间是：2026-08-22 08:01:03 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 {
-    "spider": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f",
+    "spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1787304841765_UQn8jTCo.txt;md5;9f6f95ce265523a9a6bd21e264cae1fe",
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
-    "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
     "lives": [
         {
             "name": "📺电视┃直播",
@@ -34,37 +33,92 @@
             "searchable": 0
         },
         {
-            "key": "csp_Netfixtv",
+            "key": "至臻m",
             "name": "🚀臻臻┃高峰不卡*网盘4K",
             "type": 3,
-            "changeable": "0",
+            "api": "csp_MIPan",
+            "searchable": 1,
             "quickSearch": 1,
-            "timeout": 15,
-            "api": "csp_Duopan",
             "filterable": 1,
-            "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cuemhpemhlbjguY2xpY2siLAogICAgImh0dHBzOi8vcGFuLm1paGRyLnRvcCIsCiAgICAiaHR0cHM6Ly93d3cuemhpemhlbjEudG9wIiwKICAgICJodHRwczovL3d3dy5taWhkci50b3AiLAogICAgImh0dHBzOi8vd3d3Lm1pcWsuY2MiCiAgXSwKICAidXJsX2tleSI6ICJOZXRmaXh0diIsCiAgInRva2VuIjogIiIsCiAgInVjQ29va2llIjogIiIsCiAgInF1YXJrQ29va2llIjogIiIKfQ=="
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://mihdr.top",
+                    "https://www.mihdr.top",
+                    "https://www.miqk.cc",
+                    "https://zhizhenpan.com",
+                    "https://zhizhen8.click",
+                    "https://www.zhizhen8.click"
+                ],
+                "classes": [
+                    {
+                        "id": "26",
+                        "name": "大屏臻彩4K"
+                    },
+                    {
+                        "id": "1",
+                        "name": "4K电影"
+                    },
+                    {
+                        "id": "2",
+                        "name": "4K剧集"
+                    },
+                    {
+                        "id": "4",
+                        "name": "4K动漫"
+                    },
+                    {
+                        "id": "3",
+                        "name": "4K综艺"
+                    },
+                    {
+                        "id": "27",
+                        "name": "热门短剧"
+                    }
+                ]
+            },
+            "timeout": 60
         },
         {
-            "key": "csp_Netfixtv2",
+            "key": "指南",
             "name": "🛸指南┃高峰不卡*网盘4K",
             "type": 3,
-            "changeable": "0",
-            "quickSearch": 1,
-            "timeout": 15,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cuMnhpYW9wYW4udG9wIiwKICAgICJodHRwOi8vd3d3LndleHdwLmNjIiwKICAgICJodHRwczovL3d3dy4yeGlhb3Bhbi5vbmUiLAogICAgImh0dHBzOi8vd3d3LndleHdwLmNjIgogIF0sCiAgInVybF9rZXkiOiAiVUMiLAogICJ0b2tlbiI6ICIiLAogICJ1Y0Nvb2tpZSI6ICIiLAogICJxdWFya0Nvb2tpZSI6ICIiCn0="
-        },
-        {
-            "key": "csp_Wogg",
-            "name": "🧸玩偶┃高峰不卡*网盘4K",
-            "type": 3,
-            "api": "csp_Gege",
-            "timeout": 15,
-            "changeable": "0",
+            "api": "csp_MIPan",
+            "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9"
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.2xiaopan.top",
+                    "http://www.2xiaopan.one",
+                    "https://www.wexwp.cc",
+                    "https://2xiao.eu.cc"
+                ],
+                "classes": [
+                    {
+                        "id": "22",
+                        "name": "大屏4K真彩"
+                    },
+                    {
+                        "id": "1",
+                        "name": "4K电影"
+                    },
+                    {
+                        "id": "2",
+                        "name": "4K剧集"
+                    },
+                    {
+                        "id": "3",
+                        "name": "4K动漫"
+                    },
+                    {
+                        "id": "21",
+                        "name": "4K综艺"
+                    }
+                ]
+            },
+            "timeout": 60
         },
         {
             "key": "csp_Duopan",
@@ -76,6 +130,17 @@
             "api": "csp_Duopan",
             "filterable": 1,
             "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cDovL3R2cGFucGFuLnNpdGUiLAogICAgImh0dHA6Ly9mZWltby5mdW4iLAogICAgImh0dHA6Ly94aWFvY2dlZ2Uuc2hvcCIsCiAgICAiaHR0cHM6Ly93d3cubW1wYW5wYW4uc2l0ZSIsCiAgICAiaHR0cDovL3d3dy54aWFvY2dlZ2Uuc2hvcCIKICBdLAogICJ1cmxfa2V5IjogIkR1b3BhbjQiCn0="
+        },
+        {
+            "key": "csp_Wogg",
+            "name": "🧸玩偶┃高峰不卡*网盘4K",
+            "type": 3,
+            "api": "csp_Gege",
+            "timeout": 15,
+            "changeable": "0",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9"
         },
         {
             "key": "天天",
@@ -121,18 +186,22 @@
             "ext": ""
         },
         {
-            "key": "爱影视",
-            "name": "🚀爱影┃高清影视",
+            "key": "壹影视",
+            "name": "🚀秒播┃壹哥影视",
             "type": 3,
-            "api": "csp_WhaleApp",
+            "api": "csp_YiYs",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "proxy": "https://www.tangsan.fun/jingyu.php",
-                "site": "aiyingshi",
-                "pic": "http://222.211.75.252:23433"
-            }
+            "filterable": 1
+        },
+        {
+            "key": "4K影视2",
+            "name": "👀热门┃低版4K",
+            "type": 3,
+            "api": "csp_AppGet",
+            "quickSearch": 1,
+            "timeout": 12,
+            "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
         },
         {
             "key": "4K影视",
@@ -349,13 +418,6 @@
             }
         },
         {
-            "key": "csp_Czsapp",
-            "name": "🏭厂长┃高清影视",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "ext": "https://www.4kcz.com"
-        },
-        {
             "key": "剧圈99",
             "name": "🫎剧圈┃高清影视",
             "type": 3,
@@ -490,7 +552,7 @@
             "key": "TangDou_Spider",
             "name": "💃 糖豆┃广场舞",
             "type": 3,
-            "api": "csp_TangDou",
+            "api": "csp_AppTd",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -506,22 +568,6 @@
             "style": {
                 "type": "rect",
                 "ratio": 3.8
-            }
-        },
-        {
-            "key": "弹幕",
-            "name": "弹幕(测试)",
-            "type": 3,
-            "jar": "https://img.bj0yx.com/5556404903854080;md5;c1fd2e2b4af4d5112a691e583bfb5208",
-            "api": "csp_SecureDanmu",
-            "index": 1,
-            "ext": {
-                "apiUrls": [
-                    "https://danmu.0000996.xyz/87654321|公益源",
-                    "https://dm.wodenas.xin/xiatianembydmkk|公益源1",
-                    "https://uzdm.616222.xyz|uz公益源"
-                ],
-                "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
             }
         },
         {
