@@ -1,4 +1,4 @@
-//      >>> 当前时间是：2026-08-21 08:00:58 <<<
+//      >>> 当前时间是：2026-08-22 08:00:58 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
@@ -9,7 +9,7 @@
         {
             "name": "👖裤佬IPTV直播",
             "type": 0,
-            "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
+            "url": "https://live.445569.xyz/live.m3u"
         },
         {
             "name": "👖裤佬体育直播",
@@ -25,6 +25,16 @@
             "name": "👖裤佬快手直播",
             "type": 0,
             "url": "https://kuaishou.445569.xyz/list.m3u"
+        },
+        {
+            "name": "👖裤佬虎牙直播",
+            "type": 0,
+            "url": "https://huya.445569.xyz/live.m3u"
+        },
+        {
+            "name": "👖裤佬斗鱼直播",
+            "type": 0,
+            "url": "https://douyu.445569.xyz/live.m3u"
         },
         {
             "name": "👖裤佬Twitch直播",
@@ -45,16 +55,6 @@
             "name": "👖裤佬松果赛事",
             "type": 0,
             "url": "https://stymei.pages.dev/live.m3u"
-        },
-        {
-            "name": "🍿虎牙TV直播",
-            "type": 0,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/huya_live.m3u"
-        },
-        {
-            "name": "🍿斗鱼TV直播",
-            "type": 0,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/douyu_live.m3u"
         },
         {
             "name": "🍿哔哩TV直播",
@@ -124,7 +124,7 @@
             "key": "裤佬电视直播",
             "name": "👖裤佬丨电视丨直播",
             "type": 3,
-            "api": "https://pan.szfx.top/down.php/8dfa4f12d5103360fd8b79d618d5a8a1.js"
+            "api": "https://dogpan.com/f/oY4DTv/jsnzkpg.js"
         },
         {
             "key": "腾优爱芒B",
@@ -165,17 +165,6 @@
                 "少儿",
                 "纪录片"
             ]
-        },
-        {
-            "key": "裤佬枫叶4K",
-            "name": "👖裤佬丨枫叶丨4K",
-            "type": 3,
-            "api": "https://dogpan.com/f/O7gjCv/枫叶4K.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playable": 1
         },
         {
             "key": "山楂",
