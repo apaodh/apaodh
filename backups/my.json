@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-21 08:00:50 <<<
+//      >>> 当前时间是：2026-08-22 08:00:49 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://xn--v4q818bf34b.cc
 {
-    "spider": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+    "spider": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
     "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -475,7 +475,9 @@
             "api": "csp_WoNiu",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://max.moyu666666.top/woniu_invite.php"
+            "ext": {
+                "site": "https://wn4k.com/"
+            }
         },
         {
             "key": "Qiwei",
