@@ -1,4 +1,4 @@
-//      >>> 当前时间是：2026-08-22 08:00:58 <<<
+//      >>> 当前时间是：2026-08-24 08:00:17 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
@@ -37,6 +37,11 @@
             "url": "https://douyu.445569.xyz/live.m3u"
         },
         {
+            "name": "👖裤佬YY直播",
+            "type": 0,
+            "url": "https://yy.445569.xyz/live.m3u"
+        },
+        {
             "name": "👖裤佬Twitch直播",
             "type": 0,
             "url": "https://twitch.445569.xyz/live.m3u"
@@ -57,14 +62,19 @@
             "url": "https://stymei.pages.dev/live.m3u"
         },
         {
+            "name": "🍿玉山视频直播",
+            "type": 0,
+            "url": "https://www.liaobagua.com/tv/tv.php?a=play"
+        },
+        {
+            "name": "🍿YTV直播",
+            "type": 0,
+            "url": "https://ytv1.ccwu.cc/output/live.m3u"
+        },
+        {
             "name": "🍿哔哩TV直播",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/bilibili_live.m3u"
-        },
-        {
-            "name": "🍿歪歪TV直播",
-            "type": 0,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/yy_live.m3u"
         },
         {
             "name": "🍿涛涛TV直播",
@@ -80,11 +90,6 @@
             "name": "🍿台湾4GTV直播",
             "type": 0,
             "url": "http://4gtv.cnlive.club/4gtv.m3u"
-        },
-        {
-            "name": "🍿日本TV直播",
-            "type": 0,
-            "url": "https://gitflic.ru/project/reaperc/jp-iptv/blob/raw?file=JP_Categories.m3u"
         },
         {
             "name": "🍿俄罗斯TV直播",
@@ -124,7 +129,7 @@
             "key": "裤佬电视直播",
             "name": "👖裤佬丨电视丨直播",
             "type": 3,
-            "api": "https://dogpan.com/f/oY4DTv/jsnzkpg.js"
+            "api": "https://dogpan.com/f/AnZ6UE/jsnzkpg.js"
         },
         {
             "key": "腾优爱芒B",
