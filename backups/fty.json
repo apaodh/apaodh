@@ -1,14 +1,14 @@
-//      >>> 当前时间是：2026-08-22 08:01:02 <<<
+//      >>> 当前时间是：2026-08-24 08:00:21 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://www.xn--sss604efuw.cc/tv
 {
-    "spider": "https://zl.wpscdn.cn/2026/08/19/space_img/3494f72d-11fa-4b7d-934a-3bb976851336.jpg;md5;1fb66ff185ea35252d2ae2a07d058ec1",
+    "spider": "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "点我切源",
-            "name": "<8.19更新> 修复海绵  厂长",
+            "name": "<8.23更新> 修复弹幕  海绵",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
