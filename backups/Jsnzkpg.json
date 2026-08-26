@@ -1,4 +1,4 @@
-//      >>> 当前时间是：2026-08-24 08:00:17 <<<
+//      >>> 当前时间是：2026-08-26 08:00:18 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
@@ -67,6 +67,16 @@
             "url": "https://www.liaobagua.com/tv/tv.php?a=play"
         },
         {
+            "name": "🍿PPV赛事直播",
+            "type": 0,
+            "url": "https://herewego.herewego.ggff.net/playlist.m3u"
+        },
+        {
+            "name": "🍿4GTV直播",
+            "type": 0,
+            "url": "http://4gtv.cnlive.club/4gtv.m3u"
+        },
+        {
             "name": "🍿YTV直播",
             "type": 0,
             "url": "https://ytv1.ccwu.cc/output/live.m3u"
@@ -75,6 +85,16 @@
             "name": "🍿哔哩TV直播",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/bilibili_live.m3u"
+        },
+        {
+            "name": "🍿潇雨TV直播",
+            "type": 0,
+            "url": "https://0701.tv1288.xyz/m3u"
+        },
+        {
+            "name": "🍿日后TV直播",
+            "type": 0,
+            "url": "http://rihou.cc:555/gggg.nzk"
         },
         {
             "name": "🍿涛涛TV直播",
@@ -87,9 +107,9 @@
             "url": "https://445569.pages.dev/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
         },
         {
-            "name": "🍿台湾4GTV直播",
-            "type": 0,
-            "url": "http://4gtv.cnlive.club/4gtv.m3u"
+            "name": "🍿易发TV直播",
+            "type": 1,
+            "url": "https://445569.pages.dev/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
         },
         {
             "name": "🍿俄罗斯TV直播",
@@ -120,67 +140,94 @@
             "ext": "https://dogpan.com/f/AnQytE/paomadeng.txt"
         },
         {
-            "key": "裤佬体育",
-            "name": "👖裤佬丨体育丨直播",
-            "type": 1,
-            "api": "https://jsnzkpg.de5.net/t4.json"
-        },
-        {
             "key": "裤佬电视直播",
-            "name": "👖裤佬丨电视丨直播",
+            "name": "👖裤佬丨专属丨TV",
             "type": 3,
             "api": "https://dogpan.com/f/AnZ6UE/jsnzkpg.js"
         },
         {
-            "key": "腾优爱芒B",
-            "name": "👖裤佬丨腾优爱芒B",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/d40402848cc35e9f2fa1351557f2af1c.js",
-            "changeable": 0
+            "key": "裤佬体育",
+            "name": "👖裤佬丨专属丨体育",
+            "type": 1,
+            "api": "https://jsnzkpg.de5.net/t4.json"
         },
         {
-            "key": "裤佬极影4K",
-            "name": "👖裤佬丨极影丨4K",
+            "key": "蜘蛛",
+            "name": "👖裤佬丨蜘蛛丨体育",
             "type": 3,
-            "api": "https://dogpan.com/f/MjZntz/4K免扫码.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+            "api": "https://mpimg.cn/down.php/49d27944e642ebec60150fc735a73d9a.js"
         },
         {
-            "key": "裤佬爱影4K",
-            "name": "👖裤佬丨爱影丨4K",
+            "key": "006",
+            "name": "👖裤佬丨006丨体育",
             "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-            "ext": {
-                "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
-                "key": "nzEqOgYk3QzHuEP8",
-                "init": "V122",
-                "api": 2,
-                "ua": "okhttp/3.10.0"
-            },
-            "categories": [
-                "动漫",
-                "电视剧",
-                "电影",
-                "综艺",
-                "短剧",
-                "体育",
-                "少儿",
-                "纪录片"
-            ]
+            "api": "https://mpimg.cn/down.php/a70eb81fedee53dcfebeef2a1a08946d.js"
         },
         {
-            "key": "山楂",
-            "name": "👖裤佬丨山楂丨4K",
+            "key": "88",
+            "name": "👖裤佬丨88丨体育",
             "type": 3,
-            "api": "https://dogpan.com/f/vgJxhA/山楂影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0
+            "api": "https://mpimg.cn/down.php/b83e692b849354e4b81d1a6afd9b5df4.js"
+        },
+        {
+            "key": "310",
+            "name": "👖裤佬丨310丨体育",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/5e298d73cf4cc0b9cbecd3aa572b5def.js"
+        },
+        {
+            "key": "大米",
+            "name": "👖裤佬丨大米丨体育",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/74c47bd0df2b2058bf8ec2e52a5aab6d.js"
+        },
+        {
+            "key": "豆包",
+            "name": "👖裤佬丨豆包丨体育",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/dfd102c533cdfbc6ec1484cc2c5aac7a.js"
+        },
+        {
+            "key": "鲸鱼",
+            "name": "👖裤佬丨鲸鱼丨体育",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/8d10090de49b3148174ff591b6eca272.js"
+        },
+        {
+            "key": "球吧",
+            "name": "👖裤佬丨球吧丨体育",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/2c630e2c9e430d9549b895fc0ea84ff4.js"
+        },
+        {
+            "key": "直播迷",
+            "name": "👖裤佬丨播迷丨体育",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/965468df73107d344a0cf63ab0151ff1.js"
+        },
+        {
+            "key": "JRKAN",
+            "name": "👖裤佬丨JRKAN丨体育",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/f3ab3a4dd0248d348e4f215ba037fd21.js"
+        },
+        {
+            "key": "Zuqiu",
+            "name": "👖裤佬丨Zuqiu丨体育",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/1db97b2e15d45bf3290e1b09c6129243.js"
+        },
+        {
+            "key": "爱球",
+            "name": "👖裤佬丨爱球丨体育",
+            "type": 3,
+            "api": "https://dogpan.com/f/P1yoT3/爱球体育.js"
+        },
+        {
+            "key": "裤佬01体育",
+            "name": "👖裤佬丨01丨体育",
+            "type": 4,
+            "api": "http://jiduo.3116598.xyz/PHP/pkty.php"
         },
         {
             "key": "裤佬奈飞4K",
@@ -204,7 +251,7 @@
         },
         {
             "key": "裤佬油管直播",
-            "name": "👖裤佬丨YouTube丨直播",
+            "name": "👖裤佬丨油管丨直播",
             "type": 3,
             "api": "https://dogpan.com/f/y82XfL/YouTube.py"
         },
@@ -214,22 +261,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "timeout": 10,
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "裤佬斗鱼直播",
-            "name": "👖裤佬丨斗鱼丨直播",
-            "type": 3,
-            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -253,23 +284,28 @@
             "api": "https://dogpan.com/f/580nI6/聚合直播.py"
         },
         {
-            "key": "裤佬电台直播",
-            "name": "👖裤佬丨电台丨直播",
-            "type": 3,
-            "api": "http://rihou.cc:88/js/drpy2.min.js",
-            "ext": "http://rihou.cc:88/js/蜻蜓FM.js"
-        },
-        {
             "key": "裤佬瓜子影视",
             "name": "👖裤佬丨瓜子丨影视",
             "type": 3,
             "api": "https://dogpan.com/f/66V8Hy/瓜子影视.py"
         },
         {
-            "key": "裤佬星辰影院",
-            "name": "👖裤佬丨星辰丨影视",
+            "key": "腾优爱芒B",
+            "name": "👖裤佬丨APP丨影视",
             "type": 3,
-            "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/星辰影院.js"
+            "api": "https://mpimg.cn/down.php/d40402848cc35e9f2fa1351557f2af1c.js",
+            "changeable": 0
+        },
+        {
+            "key": "裤佬山楂影视",
+            "name": "👖裤佬丨山楂丨影视",
+            "type": 3,
+            "api": "https://dogpan.com/f/vgJxhA/山楂影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0
         },
         {
             "key": "裤佬6080影视",
@@ -364,12 +400,6 @@
             "api": "https://dogpan.com/f/Nxn7Ij/多瑙影视.py"
         },
         {
-            "key": "裤佬枝枝影视",
-            "name": "👖裤佬丨枝枝丨影视",
-            "type": 3,
-            "api": "https://dogpan.com/f/O7o5hv/枝枝影视.py"
-        },
-        {
             "key": "裤佬泥巴影视",
             "name": "👖裤佬丨泥巴丨影视",
             "type": 3,
@@ -443,27 +473,6 @@
                 "ratio": 1.33
             },
             "changeable": 1
-        },
-        {
-            "key": "裤佬毒舌JS",
-            "name": "👖裤佬丨毒舌丨JS",
-            "type": 3,
-            "api": "https://dogpan.com/f/r077C2/毒舌影视.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
-        {
-            "key": "裤佬茶杯狐PY",
-            "name": "👖裤佬丨茶杯狐丨PY",
-            "type": 3,
-            "api": "https://dogpan.com/f/wjgxUy/茶杯狐影视.py",
-            "searchable": 1,
-            "changeable": 0,
-            "quickSearch": 0,
-            "filterable": 0
         },
         {
             "key": "裤佬猎手PY",
@@ -623,35 +632,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8E%BB%E7%9C%8B%E5%90%A7.png"
-        },
-        {
-            "key": "喵呜次元",
-            "name": "👖裤佬丨喵呜丨动漫",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/mwcy.js"
-        },
-        {
-            "key": "裤佬咖啡体育",
-            "name": "👖裤佬丨咖啡丨体育",
-            "type": 3,
-            "api": "https://dogpan.com/f/Rgrji5/咖啡直播.js"
-        },
-        {
-            "key": "蜘蛛体育",
-            "name": "👖裤佬丨蜘蛛丨体育",
-            "type": 3,
-            "api": "https://dogpan.com/f/5876h6/蜘蛛.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "changeable": 1
-        },
-        {
-            "key": "裤佬PK体育",
-            "name": "👖裤佬丨PK丨体育",
-            "type": 4,
-            "api": "http://jiduo.3116598.xyz/PHP/pkty.php"
         },
         {
             "key": "裤佬兔小贝育儿",
