@@ -1,14 +1,14 @@
-//      >>> 当前时间是：2026-08-24 08:00:21 <<<
+//      >>> 当前时间是：2026-08-26 08:00:24 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://www.xn--sss604efuw.cc/tv
 {
-    "spider": "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
+    "spider": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "点我切源",
-            "name": "<8.23更新> 修复弹幕  海绵",
+            "name": "<8.25更新> 修复动漫  看球",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -39,7 +39,7 @@
             "timeout": 30,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
@@ -286,16 +286,6 @@
             "changeable": 1
         },
         {
-            "key": "Anime1",
-            "name": "🐾日本┃动漫",
-            "type": 3,
-            "api": "csp_Anime1Guard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "看球",
             "name": "⚽八八┃看球",
             "type": 3,
@@ -309,7 +299,7 @@
         },
         {
             "key": "多多",
-            "name": "🏀多多┃看球",
+            "name": "🏀多多┃回放",
             "type": 3,
             "api": "csp_DoubaoGuard",
             "searchable": 0,
