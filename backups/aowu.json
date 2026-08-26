@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-24 08:00:10 <<<
+//      >>> 当前时间是：2026-08-26 08:00:11 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv
 {
-    "spider": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png;md5;91214203a2dbdb8e3f953fa27e609283",
+    "spider": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png;md5;5b8862d1137cc2473444afba6d5884f3",
     "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -20,7 +20,7 @@
             "ext": "Douban"
         },
         {
-            "name": "更新日期:【20260816】",
+            "name": "更新日期:【20260825】",
             "key": "Y360",
             "type": 3,
             "api": "csp_Y360Amns",
@@ -45,6 +45,15 @@
             "key": "MyConfig",
             "type": 3,
             "api": "csp_AAConfigAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "name": "📁资源┃中心",
+            "key": "MyAll",
+            "type": 3,
+            "api": "csp_MyAllAmns",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -814,78 +823,6 @@
             "genre": "music"
         },
         {
-            "name": "📁本地┃我的",
-            "key": "MyLocal",
-            "type": 3,
-            "api": "csp_MyLocalAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "📁夸夸┃我的",
-            "key": "MyQuark",
-            "type": 3,
-            "api": "csp_MyQuarkAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "📁摆渡┃我的",
-            "key": "MyBaidu",
-            "type": 3,
-            "api": "csp_MyBaiduAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "📁优汐┃我的",
-            "key": "MyUc",
-            "type": 3,
-            "api": "csp_MyUcAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "📁光雅┃我的",
-            "key": "MyGuangya",
-            "type": 3,
-            "api": "csp_MyGuangyaAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "📁阿狸┃我的",
-            "key": "Myali",
-            "type": 3,
-            "api": "csp_MyaliAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "📁115┃我的",
-            "key": "My115",
-            "type": 3,
-            "api": "csp_My115Amns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "📁123┃我的",
-            "key": "My123",
-            "type": 3,
-            "api": "csp_My123Amns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "name": "🔍fish┃盘搜",
             "key": "PSfish",
             "type": 3,
@@ -1036,11 +973,37 @@
     ],
     "doh": [
         {
-            "name": "Google",
-            "url": "https://dns.google/dns-query",
+            "name": "阿里",
+            "url": "https://dns.alidns.com/dns-query",
             "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
+                "223.5.5.5",
+                "223.6.6.6",
+                "2400:3200::1"
+            ]
+        },
+        {
+            "name": "腾讯",
+            "url": "https://doh.pub/dns-query",
+            "ips": [
+                "119.29.29.29",
+                "119.28.28.28",
+                "2402:4e00::"
+            ]
+        },
+        {
+            "name": "360",
+            "url": "https://doh.360.cn/dns-query",
+            "ips": [
+                "101.226.4.6",
+                "218.30.118.6"
+            ]
+        },
+        {
+            "name": "OneDNS",
+            "url": "https://doh-pure.onedns.net/dns-query",
+            "ips": [
+                "117.50.10.10",
+                "52.80.52.52"
             ]
         },
         {
@@ -1054,11 +1017,27 @@
             ]
         },
         {
-            "name": "AdGuard",
-            "url": "https://dns.adguard.com/dns-query",
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
             "ips": [
-                "94.140.14.140",
-                "94.140.14.141"
+                "8.8.8.8",
+                "8.8.4.4"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-query",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard-dns.com/dns-query",
+            "ips": [
+                "94.140.14.14",
+                "94.140.15.15"
             ]
         },
         {
@@ -1070,11 +1049,19 @@
             ]
         },
         {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
+            "name": "NextDNS",
+            "url": "https://dns.nextdns.io/your_profile_id",
             "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
+                "45.90.28.0",
+                "45.90.30.0"
+            ]
+        },
+        {
+            "name": "ControlD",
+            "url": "https://freedns.controld.com/p0",
+            "ips": [
+                "76.76.2.0",
+                "76.76.10.0"
             ]
         }
     ],
