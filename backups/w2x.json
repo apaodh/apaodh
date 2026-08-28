@@ -1,9 +1,9 @@
-//      >>> 当前时间是：2026-08-27 08:00:19 <<<
+//      >>> 当前时间是：2026-08-28 08:00:20 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://new.xn--4kq62z5rby2qupq9ub.top
 {
-    "spider": "http://oss4liview.moji.com/thd_file/2026/08/26/aef2d2a71e866a9a486fac4e4dafe5bb.jpg;md5;05471033e6e8df5c87af5e97d20ee495",
+    "spider": "http://oss4liview.moji.com/thd_file/2026/08/27/b01f5cb74f4e2d364b6370d874a05066.jpg;md5;d7b6a07908edc9eecc0931c615f8cda2",
     "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
     "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
     "sites": [
@@ -20,7 +20,7 @@
         },
         {
             "key": "Doubanaaaa",
-            "name": "🐮【更新日期:20260826】🐮",
+            "name": "🐮【更新日期:20260827-2】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -243,6 +243,15 @@
             "changeable": 0
         },
         {
+            "key": "WexFengYe4K",
+            "name": "💥小枫┃秒播💥",
+            "type": 3,
+            "api": "csp_WexFengYe4KGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
             "key": "賤賤",
             "name": "💥贱片┃秒播💥",
             "type": 3,
@@ -409,18 +418,26 @@
             "changeable": 0
         },
         {
-            "key": "AnimeAiHuazi",
-            "name": "🤡花海┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeAiHuaziGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "AnimeAiMoDu",
             "name": "🤡魔都┃动漫🤡",
             "type": 3,
             "api": "csp_AnimeAiMoDuGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "BookHongGuo",
+            "name": "🎃‍小红┃听书🎃",
+            "type": 3,
+            "api": "csp_BookHongGuoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "BookHeMa",
+            "name": "🎃‍小马┃听书🎃",
+            "type": 3,
+            "api": "csp_BookHeMaGuard",
             "searchable": 1,
             "changeable": 0
         },
