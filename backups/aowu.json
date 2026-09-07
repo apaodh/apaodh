@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+  "spider": "https://nos.netease.com/ysf/fa273578c0dc287266bd5dce5eae7082.png;md5;249047fab983b2fe5d716c2ea80a3c47",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -16,7 +16,7 @@
       "ext": "Douban"
     },
     {
-      "name": "更新日期:【20260830】",
+      "name": "更新日期:【20260906】",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -425,17 +425,6 @@
       "ext": "Libvio"
     },
     {
-      "name": "🎬嗷嗚┃漫剧",
-      "key": "MjHggg",
-      "type": 3,
-      "api": "csp_HgggAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "MjHggg",
-      "genre": "shortdrama"
-    },
-    {
       "name": "🎬嗷嗚┃短剧",
       "key": "DjHggg",
       "type": 3,
@@ -443,7 +432,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "DjHggg",
       "genre": "shortdrama"
     },
     {
