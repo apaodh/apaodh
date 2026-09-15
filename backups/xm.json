@@ -224,15 +224,6 @@
       "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
     },
     {
-      "key": "4K影视",
-      "name": "🌾热门┃低版4K",
-      "type": 3,
-      "api": "csp_AppGet",
-      "quickSearch": 1,
-      "timeout": 12,
-      "ext": "http://110.42.67.130:1226|kj37zs29q22jk96t|V122|okhttp/3.10.0"
-    },
-    {
       "key": "csp_Wwys",
       "name": "🌾农民┃高清影视",
       "type": 3,
@@ -317,7 +308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMU0xMzdZUzJKQzE2TjFQUFBEWVJQMjY4TSIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg4NDkzOTQ5LCJuYmYiOjE3ODc4ODkxNDksImlhdCI6MTc4Nzg4OTE0OX0.eNU6laARau9gs8n59cMinPnKQ_vfGQGAnwdf9CBQVT4\"}"
+      "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMU0xWlZWMEpSMTRCV1A0VFlIVzJRVjE0MSIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg5NDU0MzIxLCJuYmYiOjE3ODg4NDk1MjEsImlhdCI6MTc4ODg0OTUyMX0.hgI05-V7pfmzdAKLdm_IfqQV7eMRtFKl6P9hl3axAIM \"}"
     },
     {
       "key": "manshan",
@@ -343,8 +334,7 @@
       "key": "csp_HongGuo",
       "name": "🍎果子┃精选短剧",
       "type": 3,
-      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1788505841879_HLPUx37B.jar;md5;49c96434816525f025204030084a948c",
-      "api": "csp_HongGuo",
+      "api": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5673241091_1788770930556_IMPGdz5q.py",
       "quickSearch": 1,
       "searchable": 1,
       "changeable": 0
@@ -566,22 +556,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
-    },
-    {
-      "key": "弹幕",
-      "name": "弹幕(测试)",
-      "type": 3,
-      "jar": "https://img.bj0yx.com/5556404903854080;md5;c1fd2e2b4af4d5112a691e583bfb5208",
-      "api": "csp_SecureDanmu",
-      "index": 1,
-      "ext": {
-        "apiUrls": [
-          "https://danmu.0000996.xyz/87654321|公益源",
-          "https://dm.wodenas.xin/xiatianembydmkk|公益源1",
-          "https://uzdm.616222.xyz|uz公益源"
-        ],
-        "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
-      }
     },
     {
       "key": "Aid",
