@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/ysf/fa273578c0dc287266bd5dce5eae7082.png;md5;249047fab983b2fe5d716c2ea80a3c47",
+  "spider": "https://zl.wpscdn.cn/2026/09/11/space_img/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -16,7 +16,7 @@
       "ext": "Douban"
     },
     {
-      "name": "更新日期:【20260906】",
+      "name": "更新日期:【侏罗纪】",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -214,26 +214,6 @@
       "ext": "AppV6Tg"
     },
     {
-      "name": "☁️二小┃4K",
-      "key": "exWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "exWobg"
-    },
-    {
-      "name": "☁️至臻┃4K",
-      "key": "zzWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "zzWobg"
-    },
-    {
       "name": "☁️闪电┃4K",
       "key": "yxWobg",
       "type": 3,
@@ -254,16 +234,6 @@
       "ext": "ddWobg"
     },
     {
-      "name": "☁️蜡笔┃4K",
-      "key": "lbWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "lbWobg"
-    },
-    {
       "name": "☁️虎斑┃4K",
       "key": "hbWobg",
       "type": 3,
@@ -272,6 +242,16 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "hbWobg"
+    },
+    {
+      "name": "☁️Sed┃4K",
+      "key": "SeedHub",
+      "type": 3,
+      "api": "csp_SeedHubAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "SeedHub"
     },
     {
       "name": "☁️观影┃4K",
@@ -284,23 +264,14 @@
       "ext": "Gying"
     },
     {
-      "name": "☁️盘链┃4K",
-      "key": "Panl",
+      "name": "☁️盘库┃4K",
+      "key": "Panku",
       "type": 3,
-      "api": "csp_PanlAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "☁️Sed┃4K",
-      "key": "SeedHub",
-      "type": 3,
-      "api": "csp_SeedHubAmns",
+      "api": "csp_PankuAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "SeedHub"
+      "ext": "Panku"
     },
     {
       "name": "☁️七味┃4K",
@@ -350,10 +321,10 @@
       "changeable": 0
     },
     {
-      "name": "🐱囧途┃动漫",
-      "key": "DMcyc",
+      "name": "🐱番薯┃动漫",
+      "key": "DMfans",
       "type": 3,
-      "api": "csp_DMcycAmns",
+      "api": "csp_DMfansAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -363,15 +334,6 @@
       "key": "DMox",
       "type": 3,
       "api": "csp_DMoxAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🐱番薯┃动漫",
-      "key": "DMfans",
-      "type": 3,
-      "api": "csp_DMfansAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -498,19 +460,11 @@
       "name": "🧩橘汁┃快速",
       "key": "Woshinidie",
       "type": 3,
-      "jar": "https://zl.wpscdn.cn/2026/08/08/space_img/36332287-01c5-4b74-85f0-0cb070ddd57a.png;md5;0e457c08ca3c9fa3d949921cb73bb1f5",
+      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
       "api": "csp_Woshinidie",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "abid": "2205",
-        "version": "3.0.2.3",
-        "pkg": "com.mxj.wylcjbxyx",
-        "md5": "090DA8F91D3F60CC6CB250D86F06FE12",
-        "sha1": "3DADB42485B7F864E766479ADA6B1176D81D8D73",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt"
-      }
+      "changeable": 0
     },
     {
       "name": "🧩金牌┃快速",
