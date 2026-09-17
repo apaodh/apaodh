@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/09/12/7674fec9301d0f7816450c5887f7c57a.jpg;md5;1fb3e6dd311c1203c034963e0cf4e1be",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/09/17/0f2c4f87c3b356c5510931d8afc13412.jpg;md5;f7cb9597d1048a4ad683fcc8a03a13ec",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -48,6 +48,15 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "花卷",
+      "name": "💓花卷┃4K💓‍",
+      "type": 3,
+      "api": "csp_AiNewHuaJuanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "玩偶",
