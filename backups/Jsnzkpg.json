@@ -1,6 +1,6 @@
 {
-  "wallpaper": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/beijing.png",
-  "logo": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/touxiang.gif",
+  "wallpaper": "https://jsnz.pages.dev/f/497c52ad.png",
+  "logo": "https://jsnz.pages.dev/f/5ab7e916.gif",
   "lives": [
     {
       "name": "👖裤佬IPTV直播",
@@ -124,17 +124,17 @@
       "name": "✈️TG频道@stymei",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/paomadeng.jar",
+      "jar": "https://jsnz.pages.dev/f/8788241d.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/paomadeng.txt"
+      "ext": "https://jsnz.pages.dev/f/e8cd0ee0.txt"
     },
     {
       "key": "1",
       "name": "👖IPTV",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/jsnzkpg.js"
+      "api": "https://jsnz.pages.dev/f/f05e3b39.js"
     },
     {
       "key": "2",
@@ -146,37 +146,37 @@
       "key": "4",
       "name": "👖直播",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/熊猫直播.py"
+      "api": "https://jsnz.pages.dev/f/84875326.py"
     },
     {
       "key": "5",
       "name": "👖影视",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/瓜子影视.py"
+      "api": "https://jsnz.pages.dev/f/9e53615c.py"
     },
     {
       "key": "采集",
       "name": "👖采集",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/采集聚合.py"
+      "api": "https://jsnz.pages.dev/f/72b7239d.py"
     },
     {
       "key": "11",
       "name": "👖短剧",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/红果短剧.py"
+      "api": "https://jsnz.pages.dev/f/29b94aff.py"
     },
     {
       "key": "12",
       "name": "👖音乐",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/酷我音乐.py"
+      "api": "https://jsnz.pages.dev/f/eded33cf.py"
     },
     {
       "key": "13",
       "name": "👖动漫",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/动漫.py",
+      "api": "https://jsnz.pages.dev/f/7e20bdb7.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -199,20 +199,20 @@
       "key": "4k",
       "name": "👖4k",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/4k.py"
+      "api": "https://jsnz.pages.dev/f/af676592.py"
     },
     {
       "key": "6",
       "name": "👖APP",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/腾爱优b站.js",
+      "api": "https://jsnz.pages.dev/f/04b5c0b4.js",
       "changeable": 0
     },
     {
       "key": "7",
       "name": "👖PY",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/七猫短剧.py",
+      "api": "https://jsnz.pages.dev/f/e1aeef83.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -223,7 +223,7 @@
       "key": "8",
       "name": "👖JS",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/独播影视.js"
+      "api": "https://jsnz.pages.dev/f/f7b46c7f.js"
     },
     {
       "key": "9",
@@ -241,13 +241,13 @@
       "key": "14",
       "name": "👖少儿",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/兔小贝.js"
+      "api": "https://jsnz.pages.dev/f/6b9e7fca.js"
     },
     {
       "key": "15",
       "name": "👖听书",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/275听书.py"
+      "api": "https://jsnz.pages.dev/f/d44dd2cf.py"
     },
     {
       "key": "16",
@@ -260,13 +260,13 @@
       "key": "17",
       "name": "👖广播",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/广播.py"
+      "api": "https://jsnz.pages.dev/f/cec31b11.py"
     },
     {
       "key": "18",
       "name": "👖电台",
       "type": 3,
-      "api": "https://445569.pages.dev/https://raw.githubusercontent.com/pyapk/1/main/tvbox/电台.py"
+      "api": "https://jsnz.pages.dev/f/e126d1e4.py"
     },
     {
       "key": "19",
