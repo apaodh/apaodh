@@ -149,6 +149,12 @@
       "api": "https://jsnz.pages.dev/f/84875326.py"
     },
     {
+      "key": "聚合",
+      "name": "👖聚合",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/4df9fb60.py"
+    },
+    {
       "key": "5",
       "name": "👖影视",
       "type": 3,
@@ -238,6 +244,12 @@
       "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848348508688384?token=banye666"
     },
     {
+      "key": "emby",
+      "name": "👖Emby",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/696546f2.js"
+    },
+    {
       "key": "14",
       "name": "👖少儿",
       "type": 3,
@@ -274,6 +286,12 @@
       "type": 3,
       "api": "https://iduo.us.ci/gt/leevi0709/one/main/js/drpy2.min.js",
       "ext": "https://iduo.us.ci/gt/leevi0709/one/main/js/戏曲大全.js"
+    },
+    {
+      "key": "测试",
+      "name": "📌测试专用[动态]",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/e7124867.py"
     }
   ]
 }
