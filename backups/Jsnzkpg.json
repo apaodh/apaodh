@@ -63,11 +63,6 @@
       "url": "https://stymei1.pages.dev/live.m3u"
     },
     {
-      "name": "👖4GTV直播[翻]",
-      "type": 0,
-      "url": "https://4gtv.judy.xx.kg"
-    },
-    {
       "name": "🍿哔哩TV直播",
       "type": 0,
       "url": "https://445569.pages.dev/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/bilibili_live.m3u"
@@ -120,7 +115,7 @@
   ],
   "sites": [
     {
-      "key": "裤佬豆瓣片单",
+      "key": "裤佬片单导航",
       "name": "✈️TG频道@stymei",
       "type": 3,
       "api": "csp_Douban",
@@ -141,12 +136,6 @@
       "name": "👖体育",
       "type": 1,
       "api": "https://jsnzkpg.de5.net/t4.json"
-    },
-    {
-      "key": "4",
-      "name": "👖直播",
-      "type": 3,
-      "api": "https://jsnz.pages.dev/f/84875326.py"
     },
     {
       "key": "聚合",
@@ -182,11 +171,7 @@
       "key": "13",
       "name": "👖动漫",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/7e20bdb7.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "api": "https://jsnz.pages.dev/f/7e20bdb7.py"
     },
     {
       "key": "3",
@@ -211,19 +196,13 @@
       "key": "6",
       "name": "👖APP",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/04b5c0b4.js",
-      "changeable": 0
+      "api": "https://jsnz.pages.dev/f/04b5c0b4.js"
     },
     {
       "key": "7",
       "name": "👖PY",
       "type": 3,
-      "api": "https://jsnz.pages.dev/f/e1aeef83.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0
+      "api": "https://jsnz.pages.dev/f/e1aeef83.py"
     },
     {
       "key": "8",
@@ -289,7 +268,7 @@
     },
     {
       "key": "测试",
-      "name": "📌测试专用[动态]",
+      "name": "📌测试",
       "type": 3,
       "api": "https://jsnz.pages.dev/f/e7124867.py"
     }
