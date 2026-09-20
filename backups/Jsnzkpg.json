@@ -138,6 +138,12 @@
       "api": "https://jsnzkpg.de5.net/t4.json"
     },
     {
+      "key": "韩国",
+      "name": "👖韩国",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/26511242.py"
+    },
+    {
       "key": "聚合",
       "name": "👖聚合",
       "type": 3,
@@ -241,13 +247,6 @@
       "api": "https://jsnz.pages.dev/f/d44dd2cf.py"
     },
     {
-      "key": "16",
-      "name": "👖评书",
-      "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E9%9A%8F%E8%BA%AB%E8%AF%84%E4%B9%A6.png"
-    },
-    {
       "key": "17",
       "name": "👖广播",
       "type": 3,
@@ -255,7 +254,7 @@
     },
     {
       "key": "18",
-      "name": "👖电台",
+      "name": "👖有声",
       "type": 3,
       "api": "https://jsnz.pages.dev/f/e126d1e4.py"
     },
