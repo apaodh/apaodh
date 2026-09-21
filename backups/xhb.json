@@ -1,5 +1,5 @@
 {
-  "spider": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;94853819c2821c2de34a4a64b07dfaa2",
+  "spider": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;cc82eb7817e7b2044d294c94640725cf",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [
@@ -70,6 +70,12 @@
       "name": "瓜子|弹幕",
       "type": 3,
       "api": "csp_HBGuaZi"
+    },
+    {
+      "key": "HBDYYZ",
+      "name": "驿站|弹幕",
+      "type": 3,
+      "api": "csp_HBDYYZ"
     },
     {
       "key": "HBPianKu8",
