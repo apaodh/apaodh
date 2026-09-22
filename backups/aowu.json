@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
+  "spider": "https://zl.wpscdn.cn/2026/09/21/space_img/2c9c18d7-645a-4646-a417-ecde8e49ceac.png;md5;96cc823eebb643702970fe317e74b383",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -212,6 +212,16 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV6Tg"
+    },
+    {
+      "name": "☁️花卷┃4K",
+      "key": "hjWobg",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "hjWobg"
     },
     {
       "name": "☁️闪电┃4K",
