@@ -1,5 +1,5 @@
 {
-  "spider": "https://zl.wpscdn.cn/2026/09/21/space_img/2c9c18d7-645a-4646-a417-ecde8e49ceac.png;md5;96cc823eebb643702970fe317e74b383",
+  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -204,24 +204,14 @@
       "ext": "AppV7Dsx"
     },
     {
-      "name": "📦特狗┃秒播",
-      "key": "AppV6Tg",
-      "type": 3,
-      "api": "csp_AppV6Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV6Tg"
-    },
-    {
       "name": "☁️花卷┃4K",
-      "key": "hjWobg",
+      "key": "PanHj",
       "type": 3,
-      "api": "csp_WobgAmns",
+      "api": "csp_PanHjAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "hjWobg"
+      "ext": "PanHj"
     },
     {
       "name": "☁️闪电┃4K",
@@ -274,16 +264,6 @@
       "ext": "Gying"
     },
     {
-      "name": "☁️盘库┃4K",
-      "key": "Panku",
-      "type": 3,
-      "api": "csp_PankuAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Panku"
-    },
-    {
       "name": "☁️七味┃4K",
       "key": "Qiwei",
       "type": 3,
@@ -304,7 +284,7 @@
       "ext": "Zhinan"
     },
     {
-      "name": "☁️Sek┃4K",
+      "name": "☁️逸动┃4K",
       "key": "SheQuyd",
       "type": 3,
       "api": "csp_SheQuydAmns",
