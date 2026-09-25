@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+  "spider": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -12,7 +12,7 @@
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Douban"
     },
     {
@@ -22,7 +22,7 @@
       "api": "csp_Y360Amns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Y360"
     },
     {
@@ -32,7 +32,7 @@
       "api": "csp_HgdhAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "shortdrama",
       "ext": "Hgdh"
     },
@@ -61,7 +61,7 @@
       "api": "csp_WoggAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "woWogg"
     },
     {
@@ -71,37 +71,46 @@
       "api": "csp_WobgAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "moWobg"
     },
     {
-      "name": "⭐秋天┃秒播",
-      "key": "NewGrV2",
-      "type": 3,
-      "api": "csp_NewGrV2Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "NewGrV2"
-    },
-    {
-      "name": "⭐韩剧┃秒播",
+      "name": "🚀韩剧┃秒播",
       "key": "Hxq",
       "type": 3,
       "api": "csp_HxqAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
-      "name": "⭐瓜子┃秒播",
+      "name": "🚀瓜子┃秒播",
       "key": "Guazi",
       "type": 3,
       "api": "csp_GuaziAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Guazi"
+    },
+    {
+      "name": "🚀金牌┃秒播",
+      "key": "JinPai",
+      "type": 3,
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🚀秋天┃秒播",
+      "key": "NewGrV2",
+      "type": 3,
+      "api": "csp_NewGrV2Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "NewGrV2"
     },
     {
       "name": "📦①线┃秒播",
@@ -110,7 +119,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Fz"
     },
     {
@@ -120,7 +129,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Xy"
     },
     {
@@ -130,7 +139,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Zjdr"
     },
     {
@@ -140,7 +149,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Xyz"
     },
     {
@@ -150,7 +159,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Xnm"
     },
     {
@@ -160,7 +169,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Mtq"
     },
     {
@@ -170,7 +179,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Llq"
     },
     {
@@ -180,7 +189,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Xsz"
     },
     {
@@ -190,7 +199,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Xhr"
     },
     {
@@ -200,7 +209,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Dsx"
     },
     {
@@ -210,7 +219,7 @@
       "api": "csp_PanHjAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "PanHj"
     },
     {
@@ -220,7 +229,7 @@
       "api": "csp_WobgAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "yxWobg"
     },
     {
@@ -230,7 +239,7 @@
       "api": "csp_WobgAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "ddWobg"
     },
     {
@@ -240,7 +249,7 @@
       "api": "csp_WobgAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "hbWobg"
     },
     {
@@ -250,7 +259,7 @@
       "api": "csp_SeedHubAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "SeedHub"
     },
     {
@@ -260,7 +269,7 @@
       "api": "csp_GyingAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Gying"
     },
     {
@@ -270,7 +279,7 @@
       "api": "csp_QiweiAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Qiwei"
     },
     {
@@ -280,7 +289,7 @@
       "api": "csp_ZhinanAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Zhinan"
     },
     {
@@ -290,7 +299,7 @@
       "api": "csp_SheQuydAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "☁️123┃4K",
@@ -299,7 +308,7 @@
       "api": "csp_SheQu123Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "☁️蜗牛┃4K",
@@ -308,7 +317,7 @@
       "api": "csp_SheQuwonAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🐱番薯┃动漫",
@@ -317,7 +326,7 @@
       "api": "csp_DMfansAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🐱牛来┃动漫",
@@ -326,7 +335,7 @@
       "api": "csp_DMoxAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🐱青云┃动漫",
@@ -335,7 +344,7 @@
       "api": "csp_DMqingkAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🐱魔都┃动漫",
@@ -344,174 +353,165 @@
       "api": "csp_DMmoduAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
-      "name": "🔗哔嘀┃2K",
+      "name": "🛸哔嘀┃2K",
       "key": "Bidys",
       "type": 3,
       "api": "csp_BidysAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Bidys"
     },
     {
-      "name": "🔗厂长┃2K",
+      "name": "🛸厂长┃2K",
       "key": "Czzy",
       "type": 3,
       "api": "csp_CzzyAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Czzy"
     },
     {
-      "name": "🔗LBV┃2K",
+      "name": "🛸LBV┃2K",
       "key": "Libvio",
       "type": 3,
       "api": "csp_LibvioAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Libvio"
     },
     {
-      "name": "🎬嗷嗚┃短剧",
+      "name": "📽️嗷嗚┃短剧",
       "key": "DjHggg",
       "type": 3,
       "api": "csp_HgggAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "shortdrama"
     },
     {
-      "name": "🎬豪堪┃短剧",
+      "name": "📽️豪堪┃短剧",
       "key": "HHkk",
       "type": 3,
       "api": "csp_HHkkAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "shortdrama"
     },
     {
-      "name": "🎬盒马┃短剧",
+      "name": "📽️盒马┃短剧",
       "key": "Hema",
       "type": 3,
       "api": "csp_HemaAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "shortdrama"
     },
     {
-      "name": "🎬拜拜┃短剧",
+      "name": "📽️拜拜┃短剧",
       "key": "Bddj",
       "type": 3,
       "api": "csp_BddjAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "shortdrama"
     },
     {
-      "name": "🎬围观┃短剧",
+      "name": "📽️围观┃短剧",
       "key": "Wgdj",
       "type": 3,
       "api": "csp_WgdjAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "shortdrama"
     },
     {
-      "name": "🎬喵喵┃短剧",
+      "name": "📽️喵喵┃短剧",
       "key": "Qmdj",
       "type": 3,
       "api": "csp_QmdjAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "shortdrama"
     },
     {
-      "name": "🎬星星┃短剧",
+      "name": "📽️星星┃短剧",
       "key": "Xydj",
       "type": 3,
       "api": "csp_XydjAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "shortdrama"
     },
     {
-      "name": "🧩橘汁┃快速",
+      "name": "⭐橘汁┃快速",
       "key": "Woshinidie",
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
       "api": "csp_Woshinidie",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
-      "name": "🧩金牌┃快速",
-      "key": "JinPai",
-      "type": 3,
-      "api": "csp_JinPaiAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🧩荐片┃快速",
+      "name": "⭐荐片┃快速",
       "key": "JPian",
       "type": 3,
       "api": "csp_JPianAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "JPian"
     },
     {
-      "name": "🧩热播┃快速",
+      "name": "⭐热播┃快速",
       "key": "Rbys",
       "type": 3,
       "api": "csp_RbysAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Rbys"
     },
     {
-      "name": "🧩杜北┃快速",
+      "name": "⭐杜北┃秒播",
       "key": "Dubk",
       "type": 3,
       "api": "csp_DubkAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "Dubk"
     },
     {
-      "name": "🧩伊外┃快速",
+      "name": "⭐伊外┃快速",
       "key": "YIys",
       "type": 3,
       "api": "csp_YIysAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
-      "name": "🧩爱看┃采集",
+      "name": "⭐爱看┃采集",
       "key": "AiBot",
       "type": 3,
       "api": "csp_AiBotAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🌍爱瓜┃墙外",
@@ -520,7 +520,7 @@
       "api": "csp_AiGuaAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🌍U视┃墙外",
@@ -529,7 +529,7 @@
       "api": "csp_YspAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🌍欧乐┃墙外",
@@ -538,7 +538,7 @@
       "api": "csp_OlyyAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🌍壹帆┃墙外",
@@ -547,7 +547,7 @@
       "api": "csp_AiyfAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "📡Bili┃Live",
@@ -556,7 +556,7 @@
       "api": "csp_BiliveAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -569,7 +569,7 @@
       "api": "csp_HuyaLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -582,7 +582,7 @@
       "api": "csp_GuaziLiveAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "GuaziLive"
     },
     {
@@ -592,7 +592,7 @@
       "api": "csp_FeiqLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🏆88┃体育",
@@ -601,7 +601,7 @@
       "api": "csp_BbkqLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "BbkqLive"
     },
     {
@@ -611,7 +611,7 @@
       "api": "csp_KafLiveAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🎉合集┃Bili",
@@ -620,7 +620,7 @@
       "api": "csp_BiliAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "home": "1",
         "json": "https://file.icve.com.cn/file_doc/299/797/4AFC77E563EDEDB37F18BA6458610E16.aowu",
@@ -638,7 +638,7 @@
       "api": "csp_BiliAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100843-9aefe070b5.aowu",
         "cookie": ""
@@ -655,7 +655,7 @@
       "api": "csp_BiliAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100913-7601517540.aowu",
         "cookie": ""
@@ -672,7 +672,7 @@
       "api": "csp_BiliAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
         "cookie": ""
@@ -689,7 +689,7 @@
       "api": "csp_BiliAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz",
         "cookie": ""
@@ -706,7 +706,7 @@
       "api": "csp_BiliAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu",
         "cookie": ""
@@ -723,7 +723,7 @@
       "api": "csp_BiliAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
         "cookie": ""
@@ -740,7 +740,7 @@
       "api": "csp_TSaowuAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "📖富强┃听书",
@@ -749,7 +749,7 @@
       "api": "csp_TStyAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "📖文明┃听书",
@@ -758,7 +758,7 @@
       "api": "csp_TStzgAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🎸酷狗┃音乐",
@@ -767,7 +767,7 @@
       "api": "csp_KuGouAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "music"
     },
     {
@@ -777,7 +777,7 @@
       "api": "csp_KuwoAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "music"
     },
     {
@@ -787,7 +787,7 @@
       "api": "csp_QTfmAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "music"
     },
     {
@@ -797,7 +797,7 @@
       "api": "csp_PSfishAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🔍短剧┃盘搜",
@@ -806,7 +806,7 @@
       "api": "csp_PSdjuAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "name": "🛴推送┃播放",
@@ -815,7 +815,7 @@
       "api": "csp_PushAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 1
     }
   ],
   "lives": [
