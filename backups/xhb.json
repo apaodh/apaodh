@@ -1,5 +1,5 @@
 {
-  "spider": "http://64.90.4.187:25252/仅供测试/custom_spider.jar;md5;cc82eb7817e7b2044d294c94640725cf",
+  "spider": "http://64.90.4.187:25252/仅供测试/custom_spider.jar;md5;b3b49cfe64a0c9f81cab63419bf46e0f",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [
@@ -58,6 +58,18 @@
       "name": "落雨|弹幕",
       "type": 3,
       "api": "csp_HBXueluo"
+    },
+    {
+      "key": "HBMaiTian",
+      "api": "csp_HBMaiTian",
+      "name": "美美|弹幕",
+      "type": 3
+    },
+    {
+      "key": "HBDYYZ",
+      "api": "csp_HBDYYZ",
+      "name": "驿站|弹幕",
+      "type": 3
     },
     {
       "key": "独播",
