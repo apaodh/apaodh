@@ -61,46 +61,6 @@
       "name": "👖裤佬GTA游戏直播",
       "type": 0,
       "url": "https://stymei1.pages.dev/live.m3u"
-    },
-    {
-      "name": "🍿潇雨TV直播",
-      "type": 0,
-      "url": "https://0701.tv1288.xyz/m3u"
-    },
-    {
-      "name": "🍿日后TV直播",
-      "type": 0,
-      "url": "https://jsnzkpg4.pages.dev/http://rihou.cc:555/gggg.nzk"
-    },
-    {
-      "name": "🍿涛涛TV直播",
-      "type": 1,
-      "url": "https://445569.pages.dev/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"
-    },
-    {
-      "name": "🍿华视TV直播",
-      "type": 1,
-      "url": "https://445569.pages.dev/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
-    },
-    {
-      "name": "🍿易发TV直播",
-      "type": 1,
-      "url": "https://445569.pages.dev/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-    },
-    {
-      "name": "🍿俄罗斯TV直播",
-      "type": 0,
-      "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
-    },
-    {
-      "name": "🍿土耳其TV直播",
-      "type": 0,
-      "url": "https://445569.pages.dev/https://raw.githubusercontent.com/nigelhayes11/temp/refs/heads/main/MAN%20NORMAL%20TV%202025.m3u"
-    },
-    {
-      "name": "🍿全球TV直播",
-      "type": 0,
-      "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
     }
   ],
   "sites": [
@@ -183,6 +143,12 @@
       ]
     },
     {
+      "key": "网盘",
+      "name": "👖网盘",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/261c1664.py"
+    },
+    {
       "key": "4k",
       "name": "👖4k",
       "type": 3,
@@ -223,6 +189,12 @@
       "name": "👖Emby",
       "type": 3,
       "api": "https://jsnz.pages.dev/f/696546f2.js"
+    },
+    {
+      "key": "API",
+      "name": "👖API",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/cf616b2f.py"
     },
     {
       "key": "14",
