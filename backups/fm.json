@@ -533,17 +533,23 @@ ext": {
   ],
   "lives": [
     {
-      "name": "2oo",
-      "type": 0,
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=5803665715&sign=6ea585b301324eabb7b9f18e73839bab903fb60ee5bdb37b3a4276b4d6f3e3b1f4e6f8921a09e3c5b55ba377a8b82967c6fadcbd5c6222b3c2ede9ad273142ee164cdbd1931f03&auth_token=b6823db883fc12f91cf1127973951993"
+      "name": "Gather「蕉」",
+      "type": 3,
+      "url": "https://tv.tmxk.kdns.fr/4grxobbf",
+      "epg":"https://material.1989.click/epg.xml.gz",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
     },
     {
-      "name": "develop202",
-      "type": 0,
-      "url": "./lives/develop202.txt",
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
-    }
-  ],
+      "name": "Gather「果」",
+      "type": 3,
+      "url": "https://tv.tmxk.kdns.fr/yplrnuc7",
+      "epg":"https://material.1989.click/epg.xml.gz",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+  }],
   "headers": [
     {
       "host": "hlsztemgsplive.miguvideo.com",
