@@ -78,6 +78,11 @@
       "url": "https://445569.pages.dev/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"
     },
     {
+      "name": "🍿华视TV直播",
+      "type": 1,
+      "url": "https://445569.pages.dev/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
+    },
+    {
       "name": "🍿乌拉TV直播",
       "type": 0,
       "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
@@ -86,6 +91,11 @@
       "name": "🍿全球TV直播",
       "type": 0,
       "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
+    },
+    {
+      "name": "⚠️神秘彩蛋直播",
+      "type": 0,
+      "url": "https://caonimama.pages.dev/live.m3u"
     }
   ],
   "sites": [
