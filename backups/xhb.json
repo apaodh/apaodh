@@ -54,6 +54,12 @@
       }
     },
     {
+      "key": "pansou",
+      "api": "http://tvbox.zling.vip/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
+      "name": "盘搜|集合",
+      "type": 4
+    },
+    {
       "key": "HBFiveDm",
       "api": "csp_HBFiveDm",
       "name": "五漫|弹幕",
@@ -256,42 +262,6 @@
         "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
         "leijck": ""
       }
-    },
-    {
-      "key": "xunlei",
-      "name": "迅雷|推送",
-      "type": 4,
-      "api": "http://38.76.197.172:15151/api.php?type=xunlei"
-    },
-    {
-      "key": "123",
-      "name": "123|推送",
-      "type": 4,
-      "api": "http://38.76.197.172:15151/api.php?type=123"
-    },
-    {
-      "key": "夸克推送",
-      "name": "夸克|推送",
-      "type": 4,
-      "api": "http://38.76.197.172:15151/api.php?type=quark"
-    },
-    {
-      "key": "优惜",
-      "name": "优惜|推送",
-      "type": 4,
-      "api": "http://38.76.197.172:15151/api.php?type=uc"
-    },
-    {
-      "key": "百度",
-      "name": "百度|推送",
-      "type": 4,
-      "api": "http://38.76.197.172:15151/api.php?type=baidu"
-    },
-    {
-      "key": "天翼",
-      "name": "天翼|推送",
-      "type": 4,
-      "api": "http://38.76.197.172:15151/api.php?type=tianyi"
     },
     {
       "key": "灵虎",
