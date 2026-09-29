@@ -83,6 +83,11 @@
       "url": "https://445569.pages.dev/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
     },
     {
+      "name": "🍿易发TV直播",
+      "type": 1,
+      "url": "https://445569.pages.dev/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+    },
+    {
       "name": "🍿乌拉TV直播",
       "type": 0,
       "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
@@ -93,7 +98,12 @@
       "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
     },
     {
-      "name": "⚠️神秘彩蛋直播",
+      "name": "🏆PPV赛事直播",
+      "type": 0,
+      "url": "https://www.korice.eu.org/ppv_m3u.php"
+    },
+    {
+      "name": "⚠️神秘彩蛋[实时直播]",
       "type": 0,
       "url": "https://caonimama.pages.dev/live.m3u"
     }
