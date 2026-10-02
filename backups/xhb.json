@@ -1,5 +1,5 @@
 {
-  "spider": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;b67face36a403eecb061aca15ce337cc",
+  "spider": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;a8ad0888ed266b37298dbae7f741c27a",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [
@@ -63,6 +63,12 @@
       "key": "HBFiveDm",
       "api": "csp_HBFiveDm",
       "name": "五漫|弹幕",
+      "type": 3
+    },
+    {
+      "key": "HBBaoHuo",
+      "api": "csp_HBBaoHuo",
+      "name": "火火|弹幕",
       "type": 3
     },
     {
