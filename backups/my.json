@@ -1,5 +1,5 @@
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/6180265/2026-09-01/training_record/950055803_4_1788301315144.jar;md5;282aee405654188f1bc1822bbf137410",
+  "spider": "https://qiniu.gongxueyun.com/upload/4312160/2026-10-02/report/350167968_3_1790963314413.jar;md5;ee6abbb5a1e86ef53796034163175aac",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -15,8 +15,8 @@
       "filterable": 1,
       "ext": {
         "home": {
-          "douban": "https://6800.kstore.vip/douban.json",
-          "tmdb": "https://6800.kstore.vip/tmdb.json"
+          "douban": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json",
+          "tmdb": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json"
         }
       }
     },
@@ -46,7 +46,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "https://6800.kstore.vip/share.json"
+      "ext": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/VbeD/share.json"
     },
     {
       "key": "ALLLive",
@@ -117,40 +117,17 @@
       "ext": "https://max.moyu666666.top/app88.php?site=bl"
     },
     {
-      "key": "FuYun",
-      "name": "☁️┆浮云┆4K",
+      "key": "KanJu",
+      "name": "🎬┆流映┆4K",
       "type": 3,
-      "api": "csp_FuYun",
+      "api": "csp_KanJu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext": "AT5gVJoBJLBjA8bGv16T3JrqN2LXBIOz+yh3i+Q62mrf39gRwFyDvBsZFicI+C39mJcLm9J7qY/293gromRPJAf+9zAbwWTtKnR5Ums7P1Q5ts6eqP1gLc/RID4P3Mia9LSNqOxWJ8U9XZRYJl6gdtnZo7oR8T8JMWvWFVZzu5pAGSlzcJxMzqaVrWaPTrC3x790BI+cfF1ogCKAwNaVQxU="
-    },
-    {
-      "key": "花信",
-      "name": "🌼┆花信┆4K",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "huaxin"
-      }
-    },
-    {
-      "key": "砚池",
-      "name": "🪨┆砚池┆4K",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "yanchi"
+        "site": "https://kanju.ai",
+        "playname": "ly"
       }
     },
     {
@@ -165,37 +142,6 @@
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "sujian"
       }
-    },
-    {
-      "key": "丹青",
-      "name": "🖌️┆丹青┆4K",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "danqing"
-      }
-    },
-    {
-      "key": "huaisang",
-      "name": "🎄┆怀桑┆4K",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
-    },
-    {
-      "key": "枫眠",
-      "name": "🍁┆枫眠┆4K",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "AWdPh5PnFxq1XZ1+qPrYSqER0/V56CsPtyhgchXfwuAECyRqGnmaLDChTlIn6qwjfE0Hr9d1et+8HEB6MOa6J+NFI/q9jj1dLRTXdE2kKzczaxo6/yaY9q8jEfksZElPK2hPF0UlOPg3Dy5xjGlHXKPA4p5WFet29QlPbubxC6L1"
     },
     {
       "key": "长泽",
@@ -223,7 +169,7 @@
       "type": 3,
       "api": "csp_zhiqiu",
       "searchable": 1,
-      "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
+      "ext": "http://www.y456y.com/api//2026/zhiqiu.php"
     },
     {
       "key": "fishhxq",
@@ -231,7 +177,7 @@
       "type": 3,
       "api": "csp_FishHxq",
       "searchable": 1,
-      "ext": "http://www.小不点.com/api//2026/fishhxq.php"
+      "ext": "http://www.y456y.com/api//2026/fishhxq.php"
     },
     {
       "key": "Kan360",
@@ -241,7 +187,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": {
-        "filter": "https://openlist.wya6.com/d/down/2026/json/360.json",
+        "filter": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/8aF9/360.json",
         "fishjx": [
           "https://jx.xmflv.com/?url="
         ]
@@ -280,14 +226,17 @@
       "ext": "https://max.moyu666666.top/app3q.php?site=mh"
     },
     {
-      "key": "云朵影视",
-      "name": "☁️┆云朵┆APP",
+      "key": "星澜",
+      "name": "🌌┆星澜┆APP",
       "type": 3,
-      "api": "csp_App3Q",
+      "api": "csp_NiuLai",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://max.moyu666666.top/app3q.php?site=yd"
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "xinglan"
+      }
     },
     {
       "key": "茶寮",
@@ -300,45 +249,6 @@
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "chaliao"
-      }
-    },
-    {
-      "key": "栖桐",
-      "name": "🌳┆栖桐┆APP",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "qitong"
-      }
-    },
-    {
-      "key": "锦书",
-      "name": "✉️┆锦书┆APP",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "jinshu"
-      }
-    },
-    {
-      "key": "棋枰",
-      "name": "♟️┆棋枰┆APP",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "qiping"
       }
     },
     {
@@ -420,26 +330,6 @@
       }
     },
     {
-      "key": "知年",
-      "name": "📅┆知年┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "zn"
-      }
-    },
-    {
-      "key": "弦歌",
-      "name": "🎶┆弦歌┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "xg"
-      }
-    },
-    {
       "key": "兰芷",
       "name": "🌸┆兰芷┆APP",
       "api": "csp_AppUn",
@@ -447,16 +337,6 @@
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
         "playname": "lz"
-      }
-    },
-    {
-      "key": "怀瑾",
-      "name": "💎┆怀瑾┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "hj"
       }
     },
     {
@@ -470,26 +350,6 @@
       }
     },
     {
-      "key": "惊鸿",
-      "name": "💫┆惊鸿┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "jh"
-      }
-    },
-    {
-      "key": "昭华",
-      "name": "✨┆昭华┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "zh"
-      }
-    },
-    {
       "key": "枕霜",
       "name": "❄️┆枕霜┆APP",
       "api": "csp_AppUn",
@@ -497,16 +357,6 @@
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
         "playname": "zs"
-      }
-    },
-    {
-      "key": "清沅",
-      "name": "💧┆清沅┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "qy"
       }
     },
     {
@@ -527,26 +377,6 @@
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
         "playname": "mj"
-      }
-    },
-    {
-      "key": "长明",
-      "name": "🕯️┆长明┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "cm"
-      }
-    },
-    {
-      "key": "寻川",
-      "name": "🏞️┆寻川┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "xc"
       }
     },
     {
@@ -711,41 +541,6 @@
       }
     },
     {
-      "key": "FishLabi",
-      "name": "🖍️┆蜡笔┆4K",
-      "type": 3,
-      "api": "csp_FishCloud",
-      "searchable": 1,
-      "ext": {
-        "site": [
-          "https://feimao666.fun",
-          "http://xiaocge.fun",
-          "http://feimo.fun",
-          "https://feimao666.fun",
-          "http://fmao.site",
-          "http://fmao.shop",
-          "http://xiaocgege.shop"
-        ]
-      }
-    },
-    {
-      "key": "FishZhizhen",
-      "name": "💫┆至臻┆4K",
-      "type": 3,
-      "api": "csp_FishCloud",
-      "searchable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.mihdr.top",
-          "https://www.miqk.cc",
-          "https://zhizhenpan.com/",
-          "https://zhizhen8.click",
-          "https://www.zhizhen8.click"
-        ]
-      }
-    },
-    {
       "key": "FishDuoduo",
       "name": "🍀┆多多┆4K",
       "type": 3,
@@ -760,18 +555,15 @@
       }
     },
     {
-      "key": "FishErxiao",
-      "name": "🐂┆二小┆4K",
+      "key": "Fishhuajuan",
+      "name": "🌸┆花卷┆4K",
       "type": 3,
       "api": "csp_FishCloud",
       "searchable": 1,
       "ext": {
         "site": [
-          "https://www.erixaopan.fun",
-          "https://www.wexwp.cc",
-          "https://wexwp.cc",
-          "https://2xiaopan.top",
-          "https://www.2xiaopan.top"
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
         ]
       }
     },
@@ -802,23 +594,17 @@
       }
     },
     {
-      "key": "夸父",
-      "name": "☀️┆夸父┆4K",
+      "key": "Fishgege",
+      "name": "💫┆八零┆4K",
       "type": 3,
-      "api": "csp_FishKF",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
       "ext": {
         "site": [
-          "https://www.kfjwzz.com"
-        ],
-        "cookie": ""
+          "https://woog.nxog.eu.org",
+          "https://ogkk.nxog.eu.org",
+          "https://woog.430520.xyz"
+        ]
       }
     },
     {
