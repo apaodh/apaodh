@@ -1,6 +1,5 @@
 {
-  "spider": "http://xz.rihou.cc:88/xz/api.php/vox.jar;md5;ea9cdee94e4424ca617761c3f4ca9891",
-  "README": "http://rihou.cc:88/README.txt",
+  "spider": "./jar/vox.jar;md5;0a591a381676c3d72427a77faed45902",
   "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
   "logo": "./1.gif",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -8,22 +7,17 @@
     {
       "name": "📡咪咕直播",
       "type": 0,
-      "url": "http://124.77.202.8:49155"
+      "url": "http://139.224.44.53:1234"
     },
     {
       "name": "📡咪咕直播2",
       "type": 0,
-      "url": "http://27.18.216.122:55555"
+      "url": "http://psp1000.asuscomm.com:1234"
     },
     {
       "name": "📡咪咕直播3",
       "type": 0,
-      "url": "http://120.24.194.118:10002"
-    },
-    {
-      "name": "📡裤佬直播",
-      "type": 0,
-      "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
+      "url": "http://117.72.81.53:3000"
     },
     {
       "name": "📡虎牙",
@@ -68,20 +62,6 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0
-    },
-    {
-      "key": "wojh",
-      "name": "🎿玩偶┃[网盘]",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "./html/wo.html"
-    },
-    {
-      "key": "Eclipse",
-      "name": "🚢Eclipse┃[盘搜]",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "./html/Eclipse.html"
     },
     {
       "key": "csp_MakkaPakka",
@@ -244,21 +224,6 @@
       }
     },
     {
-      "key": "csp_PingLian",
-      "name": "😃盘链┃[网盘]",
-      "type": 3,
-      "api": "csp_PingLian",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "cookie": "",
-        "filters": "./json/pinglian.json",
-        "sites": "https://pinglian.lol",
-        "proxy": "noproxy"
-      }
-    },
-    {
       "key": "123社区",
       "name": "🥉社区┃[网盘]",
       "type": 3,
@@ -320,7 +285,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "host": "https://sidhub.cc"
+        "host": "https://seedog.cc"
       }
     },
     {
@@ -371,7 +336,7 @@
     },
     {
       "key": "csp_Wogg",
-      "name": "😁玩偶┃[网盘]",
+      "name": "😁玩偶┃哥哥",
       "type": 3,
       "api": "csp_Wogg",
       "timeout": 60,
@@ -379,38 +344,8 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "sites": "https://woggpan.xxooo.cf",
+        "sites": "https://woggpan.888484.xyz,https://wogg.xxooo.cf,https://www.wogg.net,https://woggpan.xxooo.cf",
         "filters": "./json/wogg.json",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "欧歌网盘",
-      "name": "🤪欧歌┃[网盘]",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "https://woog.nxog.eu.org",
-        "filters": "./json/wogg2.json",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "蜡笔网盘",
-      "name": "🤩蜡笔┃[网盘]",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "http://tvpanpan.site",
-        "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
     },
@@ -425,21 +360,6 @@
       "timeout": 60,
       "ext": {
         "sites": "http://shandian.blog",
-        "filters": "./json/wogg2.json",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "二小网盘",
-      "name": "🤬二小┃[网盘]",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "https://www.wexwp.cc",
         "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
@@ -460,23 +380,8 @@
       }
     },
     {
-      "key": "至臻网盘",
-      "name": "🤫至臻┃[网盘]",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "https://www.mihdr.top",
-        "filters": "./json/wogg2.json",
-        "proxy": "noproxy"
-      }
-    },
-    {
       "key": "多多网盘",
-      "name": "😘多多┃[网盘]",
+      "name": "😘多多┃网盘",
       "type": 3,
       "api": "csp_Wobg",
       "searchable": 1,
@@ -484,7 +389,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://tv.yydsys.top/",
+        "sites": "https://tv.214521.xyz,https://yydsys.de5.net,https://tv.yydsys.top",
         "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
@@ -588,18 +493,6 @@
       }
     },
     {
-      "key": "八天App",
-      "name": "🐷八天┃[APP]",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://dy.8ttv.cn/",
-        "datakey": "1111111111111111"
-      }
-    },
-    {
       "key": "王子4K",
       "name": "🙆王子┃[APP]",
       "type": 3,
@@ -699,12 +592,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/泥泥视频.js"
-    },
-    {
-      "key": "星辰影院",
-      "name": "🪐星辰┃[秒播]",
-      "type": 3,
-      "api": "./js/星辰影院.js"
     },
     {
       "key": "官采",
@@ -930,30 +817,6 @@
       "ext": {
         "sites": ""
       }
-    },
-    {
-      "key": "AList",
-      "name": "😇Alist┃[网络]",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "playerType": 2,
-      "ext": "./json/alist.json"
-    },
-    {
-      "key": "WebDAV",
-      "name": "🙃Web┃[网络]",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "playerType": 2,
-      "ext": "./json/webdav.json"
     },
     {
       "key": "商店",
