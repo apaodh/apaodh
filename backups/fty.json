@@ -1,5 +1,5 @@
 {
-"spider":"https://xiuxiu-pro-new.meitudata.com/posters/768d6c1a68df428fb62b13b07ba55133.jpg;md5;66b5b0314e395eca54a64374a6338573",
+"spider":"https://xiuxiu-pro-new.meitudata.com/posters/df6450a1cc03f3139b659338e9f15278.jpg;md5;f782cdee81118405176fd260be9ca5cd",
 "wallpaper":"https://动态壁纸.饭.eu.org/",
 
 "sites":[
@@ -26,7 +26,7 @@
 {"key":"荐片","name":"🥝荐片┃多线","type":3,"api":"csp_JPJGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"奥特","name":"🏝奥特┃多线","type": 3,"api":"csp_AueteGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
-{"key":"AiDj","name":"❤️ AI┃短剧","type":3,"api":"csp_AiDjGuard","ext":{"type":"video","name":"短剧"},"indexs":0,"quickSearch":1,"searchable":1,"changeable":0},
+{"key":"AiDj","name":"❤️AI┃短漫剧","type":3,"api":"csp_AiDjGuard","ext":{"type":"video","name":"短剧","DanMu":false},"indexs":0,"quickSearch":1,"searchable":1,"changeable":0},
 {"key":"咕咕","name":"🦉咕咕┃动漫","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"},
 {"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 
