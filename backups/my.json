@@ -1,5 +1,5 @@
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/4312160/2026-10-02/report/350167968_3_1790963314413.jar;md5;ee6abbb5a1e86ef53796034163175aac",
+  "spider": "https://qiniu.gongxueyun.com/upload/6850755/2026-10-05/report/709654417_2_1791217713839.jar;md5;34b70c352eea95ed3ee262117e830f50",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -129,6 +129,16 @@
         "site": "https://kanju.ai",
         "playname": "ly"
       }
+    },
+    {
+      "key": "Luck",
+      "name": "🍀┆青禾┆4K",
+      "type": 3,
+      "api": "csp_Luck",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://max.moyu666666.top/luck.php"
     },
     {
       "key": "素笺",
