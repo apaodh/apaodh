@@ -1,5 +1,5 @@
 {
-  "spider": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+  "spider": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png;md5;4c4f8a2ce645a5539405defe99d17fa3",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -32,7 +32,7 @@
       "api": "csp_HgdhAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "genre": "shortdrama",
       "ext": "Hgdh"
     },
@@ -223,16 +223,6 @@
       "ext": "PanHj"
     },
     {
-      "name": "☁️闪电┃4K",
-      "key": "yxWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "yxWobg"
-    },
-    {
       "name": "☁️多多┃4K",
       "key": "ddWobg",
       "type": 3,
@@ -269,8 +259,7 @@
       "api": "csp_GyingAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "Gying"
+      "changeable": 1
     },
     {
       "name": "☁️七味┃4K",
@@ -324,8 +313,8 @@
       "key": "DMfans",
       "type": 3,
       "api": "csp_DMfansAmns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1
     },
     {
@@ -392,7 +381,7 @@
       "api": "csp_HgggAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "genre": "shortdrama"
     },
     {
@@ -400,8 +389,8 @@
       "key": "HHkk",
       "type": 3,
       "api": "csp_HHkkAmns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "genre": "shortdrama"
     },
@@ -494,15 +483,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "JPian"
-    },
-    {
-      "name": "⭐伊外┃快速",
-      "key": "YIys",
-      "type": 3,
-      "api": "csp_YIysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "name": "⭐爱看┃采集",
