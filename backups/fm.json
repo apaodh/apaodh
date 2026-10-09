@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🐼┃公众号：熊猫是只肥猫┃",
+      "name": "🐼┃QQ频道：肥猫宝贝┃",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -427,7 +427,7 @@ ext": {
     },
     {
       "key": "push_agent",
-      "name": "关注公众号：熊猫是只肥猫",
+      "name": "QQ频道：肥猫宝贝",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -532,15 +532,7 @@ ext": {
     }
   ],
   "lives": [
-    {
-      "name": "Gather「蕉」",
-      "type": 3,
-      "url": "https://tv.tmxk.kdns.fr/4grxobbf",
-      "epg":"https://material.1989.click/epg.xml.gz",
-      "ua": "okhttp/3.8.1",
-      "timeout": 10,
-      "playerType": 2
-    },
+
     {
       "name": "Gather「果」",
       "type": 3,
