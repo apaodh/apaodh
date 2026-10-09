@@ -1,5 +1,5 @@
 {
-  "spider": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;bd9c4d777bdf0dad2c1889b5f8b2f8d1",
+  "spider": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;3cb6cb488ddfc0dfe8ec69d5015aef72",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [
@@ -58,6 +58,12 @@
       "api": "http://tvbox.zling.vip/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
       "name": "盘搜|集合",
       "type": 4
+    },
+    {
+      "key": "HB36DJ",
+      "name": "摇滚|DJ",
+      "type": 3,
+      "api": "csp_HB36DJCAT"
     },
     {
       "key": "luoxue",
