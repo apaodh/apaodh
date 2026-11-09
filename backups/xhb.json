@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;0bfb7d17ae7197a09a59f2c54c360fb9",
+  "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;b2c7394fb0b1d9a5c8657b618bf3fd6d",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [
@@ -96,6 +96,255 @@
       }
     },
     {
+      "key": "bubu",
+      "name": "布布|弹幕",
+      "type": 3,
+      "api": "csp_HBYunDuoCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "tiantang",
+      "name": "天堂|弹幕",
+      "type": 3,
+      "api": "csp_HBAppDramaCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "host": "http://122.228.193.211:18008",
+        "pkg": "com.dytiantang.one",
+        "appName": "电影天堂",
+        "version": "3.0.0.7",
+        "decrypt": "0",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "pingguo",
+      "name": "苹果|弹幕",
+      "type": 3,
+      "api": "csp_HBAppDramaCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "host": "http://122.228.193.211:18008",
+        "pkg": "com.juechufsh.android.xpg1",
+        "appName": "小苹果",
+        "version": "1.0.0.3",
+        "decrypt": "0",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "huayi",
+      "name": "华谊|弹幕",
+      "type": 3,
+      "api": "csp_HBAppDramaCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "host": "http://43.240.158.154:18004",
+        "pkg": "com.lxf.sncgtzxyx",
+        "appName": "华谊",
+        "version": "6.0.0.1",
+        "decrypt": "0",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "V04XQZNYRWN6T0JODZFIAG5CTZB3PT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "site": "https://1851089669.cdn.123clouddisk.com/1851089669/44107727"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "juzhi",
+      "name": "橘汁|弹幕",
+      "type": 3,
+      "api": "csp_HBAppDramaCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "host": "http://juziapp.hzhcbkj.cn",
+        "pkg": "com.asjdhjhd.mgd.p3",
+        "appName": "橘汁",
+        "version": "3.0.7.0",
+        "decrypt": "1",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "categories": "20:电影,21:剧集,22:综艺,23:动漫,24:短剧,25:直播,26:漫剧"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "lanying",
+      "name": "蓝鹰|弹幕",
+      "type": 3,
+      "api": "csp_HBAppQiCAT",
+      "searchable": 0,
+      "filterable": 1,
+      "ext": {
+        "url": "http://103.217.190.91:5566",
+        "dataKey": "hagYExMdMkeWfemK",
+        "dataIv": "hagYExMdMkeWfemK",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "lanniao",
+      "name": "蓝鸟|弹幕",
+      "type": 3,
+      "api": "csp_HBAppQiCAT",
+      "searchable": 0,
+      "filterable": 1,
+      "ext": {
+        "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
+        "dataKey": "oW5UxZ5kWVr1DI69",
+        "dataIv": "oW5UxZ5kWVr1DI69",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "firstaid",
+      "name": "急救|百科",
+      "type": 3,
+      "api": "csp_FirstAidCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "sa",
+      "name": "SA|弹幕",
+      "type": 3,
+      "api": "csp_HBSACAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "seesee",
+      "name": "看客|弹幕",
+      "type": 3,
+      "api": "csp_HBseeSeeCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "hanquan",
+      "name": "韩圈|弹幕",
+      "type": 3,
+      "api": "csp_HBHanQuanCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "juquan",
+      "name": "剧圈|弹幕",
+      "type": 3,
+      "api": "csp_HBApp99CAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "name": "剧圈圈",
+        "versionName": "1.2.0",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "banri",
+      "name": "半日|弹幕",
+      "type": 3,
+      "api": "csp_HBApp99CAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "name": "半日闲",
+        "versionName": "3.5.8",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "hema",
+      "name": "河马|弹幕",
+      "type": 3,
+      "api": "csp_HBHeMaCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
       "key": "juzi",
       "name": "橘子|弹幕",
       "type": 3,
@@ -120,6 +369,19 @@
       "name": "摇滚|DJ",
       "type": 3,
       "api": "csp_HB36DJCAT"
+    },
+    {
+      "key": "dj111",
+      "name": "歌曲|DJ",
+      "type": 3,
+      "api": "csp_HBDJ111CAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      }
     },
     {
       "key": "luoxue",
@@ -207,12 +469,6 @@
       "name": "瓜子|弹幕",
       "type": 3,
       "api": "csp_HBGuaZiCAT"
-    },
-    {
-      "key": "HBDYYZ",
-      "name": "驿站|弹幕",
-      "type": 3,
-      "api": "csp_HBDYYZCAT"
     },
     {
       "key": "HBPianKu8",
@@ -667,8 +923,8 @@
       "ext": "https://api.maoyanapi.top/api.php/provide/vod/"
     },
     {
-      "key": "天堂",
-      "name": "天堂|弹幕",
+      "key": "天堂采集",
+      "name": "天堂采集|弹幕",
       "type": 3,
       "api": "csp_HBcms10CAT",
       "ext": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/"
@@ -734,16 +990,6 @@
       "name": "测试|专用",
       "type": 3,
       "api": "csp_HBxLei8CAT"
-    },
-    {
-      "key": "听书世界",
-      "name": "听书|世界",
-      "type": 3,
-      "api": "csp_HBTingShuCAT",
-      "style": {
-        "type": "rect",
-        "ratio": 0.75
-      }
     }
   ],
   "parses": [
