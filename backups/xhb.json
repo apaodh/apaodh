@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;7c078751867e99297a5a6e4272f6c5d2",
+  "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;7f6c0fbb64a909766318b58abd0c4e87",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [
@@ -575,6 +575,14 @@
       "name": "葵花|弹幕",
       "type": 3,
       "api": "csp_HBGuaZiCAT"
+    },
+    {
+      "key": "鼻涕",
+      "name": "大鼻涕|嗅探",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_WexbttwoCAT"
     },
     {
       "key": "HBPianKu8",
