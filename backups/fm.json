@@ -1,5 +1,5 @@
 {
-  "spider": "https://img2.gelonghui.com/library/7a619-f506660f-a1ff-421a-b43d-0e83102fa147.png;md5;7a619712f3f423a5f26dc72a892b8875",
+  "spider": "https://img2.gelonghui.com/library/73c42-e8ed973d-4e97-42d9-b486-1a55057741ed.png;md5;‎73c42d5c2f86efd6ddc6c85fd286069c‎",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://w.junce.dpdns.org/fm.gif",
@@ -78,9 +78,9 @@
       "type": 3,
       "api": "csp_Duopan",
       "filterable": 1,
+      "timeout": 30,
       "ext": {
         "site_urls": [
-          "http://shandian.blog/",
           "http://sd.sduc.site/"
         ],
         "threadinfo": {
@@ -272,7 +272,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cz01.vip"
+      "ext": "https://www.4kcz.com"
     },
     {
       "key": "csp_SP360",
